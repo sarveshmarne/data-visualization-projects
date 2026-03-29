@@ -1,0 +1,2101 @@
+Date,City,Product_Category,Product,Quantity,Product_Price
+15-01-2026,Hyderabad,Dairy Products,Kharwas,23,75
+25-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,63,500
+21-01-2026,Mumbai,High Protein Milk,Milk 0.5L,40,120
+10-02-2026,Pune,High Protein Milk,Mango Milk,112,130
+02-03-2026,Delhi NCR,High Protein Milk,Chickoo Milk,22,120
+14-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,22,55
+15-02-2026,Mumbai,High Protein Milk,Cacao Milk,70,120
+21-01-2026,Mumbai,Dairy Products,Door Bag,91,250
+06-02-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,47,75
+22-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,54,195
+04-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,21,55
+07-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,7,50
+02-01-2026,Delhi NCR,High Protein Milk,Mango Milk,93,130
+12-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,94,75
+19-02-2026,Mumbai,Dairy Products,Door Bag,72,250
+05-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,92,120
+14-01-2026,Delhi NCR,Dairy Products,Dahi,19,45
+12-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,20,1000
+01-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,31,100
+05-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,106,195
+01-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,96,100
+14-02-2026,Pune,High Protein Milk,Coffee,83,90
+01-02-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,83,75
+08-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,6,75
+01-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,92,500
+17-01-2026,Hyderabad,Dairy Products,Door Bag,66,250
+04-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,54,55
+04-01-2026,Jaipur,High Protein Milk,Coffee,75,90
+26-02-2026,Mumbai,Ghee,Cultured Cow Ghee,117,500
+05-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,51,55
+14-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,63,100
+03-02-2026,Delhi NCR,High Protein Milk,Chickoo Milk,47,120
+20-01-2026,Mumbai,Ghee,Buffalo Ghee,105,500
+28-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,24,100
+25-01-2026,Delhi NCR,High Protein Milk,Matcha,99,125
+24-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,84,50
+10-02-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,85,75
+26-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,111,50
+02-01-2026,Delhi NCR,Dairy Products,Chocolate Milk,64,90
+13-01-2026,Pune,High Protein Milk,Coffee,37,90
+18-02-2026,Jaipur,Dairy Products,Chocolate Milk,114,90
+25-02-2026,Pune,High Protein Milk,Cacao Milk,110,120
+08-01-2026,Pune,Ghee,Buffalo Ghee,78,500
+15-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,104,55
+16-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,70,1000
+01-02-2026,Mumbai,High Protein Milk,Cacao Milk,46,120
+02-01-2026,Hyderabad,Ghee,Buffalo Ghee,105,500
+01-03-2026,Delhi NCR,Dairy Products,Chocolate Milk,115,90
+12-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,120,50
+16-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,45,195
+16-01-2026,Hyderabad,Ghee,Buffalo Ghee,110,500
+14-02-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,35,55
+06-01-2026,Delhi NCR,Ghee,Buffalo Ghee,94,500
+12-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,44,195
+05-02-2026,Mumbai,Ghee,Cultured Cow Ghee,30,500
+19-02-2026,Delhi NCR,Ghee,Buffalo Ghee,34,500
+12-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,83,55
+20-01-2026,Jaipur,Ghee,Buffalo Ghee,47,500
+02-03-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,15,55
+14-01-2026,Mumbai,Ghee,Buffalo Ghee,17,500
+18-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,74,75
+26-02-2026,Delhi NCR,Ghee,Buffalo Ghee,117,500
+06-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,37,55
+02-03-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,67,1000
+18-02-2026,Pune,High Protein Milk,Matcha,110,125
+02-01-2026,Jaipur,Ghee,Cultured Cow Ghee,20,500
+07-01-2026,Mumbai,High Protein Milk,Milk,19,75
+28-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,112,55
+30-01-2026,Mumbai,High Protein Milk,Milk,91,75
+02-03-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,19,55
+14-01-2026,Jaipur,Ghee,Cultured Cow Ghee,33,500
+22-02-2026,Pune,Ghee,Cultured Cow Ghee,40,500
+04-01-2026,Mumbai,High Protein Milk,Chickoo Milk,86,120
+05-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,77,100
+16-01-2026,Delhi NCR,Ghee,Buffalo Ghee,53,500
+04-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,99,1000
+11-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,43,500
+21-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,50,120
+11-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,104,55
+05-02-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,78,75
+15-01-2026,Pune,Ghee,Buffalo Ghee,100,500
+03-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,80,195
+05-01-2026,Mumbai,Dairy Products,Door Bag,56,250
+22-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,60,50
+23-01-2026,Delhi NCR,Dairy Products,Dahi,17,45
+01-02-2026,Delhi NCR,Dairy Products,Door Bag,117,250
+03-02-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,77,100
+23-01-2026,Pune,Dairy Products,Dahi,89,45
+20-01-2026,Hyderabad,Ghee,Buffalo Ghee,5,500
+15-02-2026,Mumbai,Ghee,Buffalo Ghee,20,500
+28-01-2026,Jaipur,Ghee,Cultured Cow Ghee,39,500
+29-01-2026,Pune,High Protein Milk,Mango Milk,39,130
+20-02-2026,Mumbai,Ghee,Buffalo Ghee,32,500
+10-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,40,500
+25-01-2026,Mumbai,Ghee,Buffalo Ghee,65,500
+14-01-2026,Pune,Ghee,Buffalo Ghee,72,500
+22-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,14,55
+27-01-2026,Mumbai,High Protein Milk,Matcha,77,125
+06-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,19,120
+01-01-2026,Hyderabad,High Protein Milk,Matcha,106,125
+02-03-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,106,55
+26-02-2026,Pune,Ghee,Buffalo Ghee,55,500
+24-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,103,50
+27-02-2026,Delhi NCR,Ghee,Buffalo Ghee,26,500
+10-01-2026,Hyderabad,High Protein Milk,Kesar Elaichi,108,100
+15-02-2026,Jaipur,Dairy Products,Kharwas,5,75
+22-02-2026,Delhi NCR,Dairy Products,Dahi,51,45
+30-01-2026,Delhi NCR,Dairy Products,Door Bag,76,250
+06-01-2026,Pune,Dairy Products,Cow Milk Paneer,13,100
+01-03-2026,Jaipur,Dairy Products,Cow Milk Paneer,36,100
+10-02-2026,Pune,Dairy Products,A2 Gir Cow Paneer,50,195
+27-01-2026,Delhi NCR,Ghee,Buffalo Ghee,75,500
+12-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,10,55
+04-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,49,55
+18-02-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,62,100
+14-02-2026,Hyderabad,High Protein Milk,Coffee,94,90
+18-02-2026,Mumbai,High Protein Milk,Matcha,117,125
+27-01-2026,Mumbai,Ghee,Buffalo Ghee,49,500
+19-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,28,1000
+01-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,62,50
+12-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,91,500
+14-01-2026,Hyderabad,High Protein Milk,Kesar Elaichi,22,100
+18-02-2026,Mumbai,Dairy Products,Kharwas,51,75
+25-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,59,1000
+01-02-2026,Pune,Dairy Products,Door Bag,83,250
+10-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,64,500
+05-01-2026,Mumbai,Dairy Products,Dahi,31,45
+06-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,8,195
+29-01-2026,Pune,Ghee,Cultured Cow Ghee,22,500
+30-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,112,500
+14-02-2026,Pune,Ghee,A2 Gir Cow Ghee,79,1000
+07-01-2026,Hyderabad,High Protein Milk,Cacao Milk,36,120
+05-01-2026,Jaipur,High Protein Milk,Cacao Milk,68,120
+26-01-2026,Jaipur,Dairy Products,Chocolate Milk,33,90
+07-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,48,50
+19-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,79,55
+21-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,41,1000
+25-02-2026,Jaipur,Ghee,Cultured Cow Ghee,50,500
+10-02-2026,Pune,High Protein Milk,Mango Milk,97,130
+31-01-2026,Mumbai,High Protein Milk,Coffee,71,90
+01-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,45,195
+08-01-2026,Jaipur,Ghee,Cultured Cow Ghee,92,500
+08-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,56,55
+31-01-2026,Hyderabad,Dairy Products,Kharwas,89,75
+24-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,9,55
+18-02-2026,Delhi NCR,Dairy Products,Kharwas,93,75
+17-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,37,1000
+11-01-2026,Hyderabad,High Protein Milk,Coffee,67,90
+08-02-2026,Hyderabad,Dairy Products,Chocolate Milk,91,90
+08-02-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,75,75
+01-02-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,18,195
+12-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,116,50
+17-01-2026,Pune,Dairy Products,Dahi,15,45
+05-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,43,55
+05-02-2026,Jaipur,High Protein Milk,Milk 0.5L,65,120
+25-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,107,120
+01-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,45,55
+26-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,63,55
+01-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,106,1000
+04-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,11,50
+01-01-2026,Jaipur,Ghee,Buffalo Ghee,73,500
+01-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,82,50
+16-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,45,100
+17-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,108,75
+10-02-2026,Hyderabad,Ghee,Buffalo Ghee,36,500
+26-01-2026,Pune,High Protein Milk,Cacao Milk,30,120
+15-02-2026,Pune,Ghee,Cultured Cow Ghee,101,500
+14-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,108,75
+08-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,57,55
+12-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,6,120
+25-01-2026,Jaipur,Ghee,Cultured Cow Ghee,109,500
+14-02-2026,Pune,Ghee,Cultured Cow Ghee,27,500
+18-02-2026,Pune,Dairy Products,Chocolate Milk,113,90
+02-01-2026,Pune,Ghee,Cultured Cow Ghee,83,500
+24-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,71,55
+23-02-2026,Delhi NCR,Dairy Products,Door Bag,40,250
+13-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,62,90
+23-01-2026,Hyderabad,Dairy Products,Chocolate Milk,118,90
+01-03-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,21,195
+28-02-2026,Mumbai,Ghee,Cultured Cow Ghee,117,500
+09-01-2026,Mumbai,High Protein Milk,Milk 0.5L,27,120
+28-02-2026,Mumbai,Ghee,Cultured Cow Ghee,86,500
+04-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,8,75
+06-02-2026,Pune,Dairy Products,Cow Milk Paneer,77,100
+29-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,25,55
+08-02-2026,Jaipur,High Protein Milk,Milk 0.5L,92,120
+01-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,102,75
+01-01-2026,Pune,Dairy Products,Door Bag,29,250
+15-02-2026,Pune,Dairy Products,Cow Milk Paneer,44,100
+02-03-2026,Jaipur,High Protein Milk,Cacao Milk,62,120
+23-01-2026,Delhi NCR,High Protein Milk,Matcha,50,125
+14-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,50,75
+23-02-2026,Mumbai,Dairy Products,Door Bag,107,250
+29-01-2026,Delhi NCR,High Protein Milk,Chickoo Milk,47,120
+12-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,28,50
+28-01-2026,Mumbai,Dairy Products,Dahi,90,45
+15-02-2026,Pune,Ghee,Cultured Cow Ghee,116,500
+15-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,6,55
+02-01-2026,Jaipur,High Protein Milk,Milk,42,75
+13-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,62,55
+23-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,81,75
+08-02-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,112,75
+11-01-2026,Jaipur,Dairy Products,Door Bag,96,250
+13-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,64,100
+08-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,89,1000
+18-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,51,100
+14-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,84,50
+03-01-2026,Hyderabad,Dairy Products,Kharwas,75,75
+19-01-2026,Pune,High Protein Milk,Kesar Elaichi,72,100
+09-01-2026,Pune,Ghee,A2 Gir Cow Ghee,77,1000
+10-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,7,55
+04-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,104,75
+23-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,37,1000
+25-01-2026,Delhi NCR,Ghee,Buffalo Ghee,73,500
+19-01-2026,Jaipur,Dairy Products,Kharwas,20,75
+05-02-2026,Jaipur,High Protein Milk,Cacao Milk,105,120
+11-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,106,195
+28-01-2026,Hyderabad,Dairy Products,Door Bag,62,250
+29-01-2026,Delhi NCR,Dairy Products,Dahi,90,45
+12-01-2026,Mumbai,Dairy Products,Dahi,22,45
+19-02-2026,Jaipur,Ghee,Cultured Cow Ghee,26,500
+25-02-2026,Jaipur,Dairy Products,Dahi,22,45
+20-02-2026,Mumbai,High Protein Milk,Milk,103,75
+16-02-2026,Pune,Ghee,Cultured Cow Ghee,50,500
+02-03-2026,Pune,Dairy Products,A2 Gir Cow Paneer,31,195
+07-01-2026,Jaipur,Dairy Products,Chocolate Milk,26,90
+09-01-2026,Pune,Dairy Products,Kharwas,116,75
+20-01-2026,Hyderabad,Dairy Products,Door Bag,100,250
+08-02-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,55,55
+03-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,16,75
+15-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,32,195
+02-01-2026,Mumbai,High Protein Milk,Kesar Elaichi,117,100
+30-01-2026,Pune,Ghee,Cultured Cow Ghee,118,500
+25-02-2026,Jaipur,High Protein Milk,Chickoo Milk,26,120
+30-01-2026,Pune,High Protein Milk,Kesar Elaichi,76,100
+22-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,20,50
+09-01-2026,Jaipur,Ghee,Buffalo Ghee,76,500
+14-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,21,55
+28-01-2026,Jaipur,High Protein Milk,Matcha,54,125
+02-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,57,1000
+02-03-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,8,100
+20-01-2026,Delhi NCR,Dairy Products,Kharwas,51,75
+14-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,78,55
+13-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,28,195
+10-01-2026,Hyderabad,Ghee,Buffalo Ghee,97,500
+17-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,22,55
+03-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,56,55
+10-01-2026,Delhi NCR,High Protein Milk,Matcha,77,125
+01-03-2026,Mumbai,Dairy Products,Cow Milk Paneer,100,100
+28-02-2026,Pune,Dairy Products,Dahi,79,45
+28-01-2026,Mumbai,Dairy Products,Dahi,45,45
+03-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,23,50
+07-01-2026,Pune,Dairy Products,Chocolate Milk,64,90
+15-01-2026,Jaipur,Dairy Products,Kharwas,85,75
+24-01-2026,Hyderabad,Ghee,Buffalo Ghee,117,500
+06-02-2026,Hyderabad,Ghee,Buffalo Ghee,84,500
+07-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,8,50
+09-01-2026,Jaipur,Ghee,Buffalo Ghee,44,500
+22-02-2026,Pune,Ghee,A2 Gir Cow Ghee,50,1000
+24-02-2026,Pune,Dairy Products,Door Bag,89,250
+14-01-2026,Hyderabad,High Protein Milk,Coffee,17,90
+26-01-2026,Delhi NCR,High Protein Milk,Cacao Milk,91,120
+11-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,101,55
+15-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,21,75
+07-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,54,55
+08-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,15,55
+15-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,70,1000
+31-01-2026,Jaipur,Ghee,Cultured Cow Ghee,31,500
+02-02-2026,Hyderabad,Dairy Products,Chocolate Milk,55,90
+03-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,49,55
+20-01-2026,Mumbai,High Protein Milk,Milk 0.5L,70,120
+05-02-2026,Pune,High Protein Milk,Chickoo Milk,36,120
+15-02-2026,Hyderabad,High Protein Milk,Chickoo Milk,108,120
+09-02-2026,Jaipur,High Protein Milk,Milk 0.5L,98,120
+26-01-2026,Jaipur,Ghee,Cultured Cow Ghee,34,500
+09-02-2026,Jaipur,High Protein Milk,Chickoo Milk,21,120
+01-03-2026,Hyderabad,Ghee,Buffalo Ghee,58,500
+07-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,90,50
+17-01-2026,Hyderabad,Dairy Products,Chocolate Milk,13,90
+11-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,60,55
+28-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,51,75
+26-02-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,83,55
+05-02-2026,Delhi NCR,Dairy Products,Door Bag,108,250
+22-01-2026,Delhi NCR,Dairy Products,Dahi,108,45
+17-01-2026,Jaipur,Dairy Products,Door Bag,95,250
+13-01-2026,Delhi NCR,Dairy Products,Kharwas,112,75
+25-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,70,55
+12-02-2026,Delhi NCR,Ghee,Buffalo Ghee,36,500
+09-01-2026,Jaipur,Dairy Products,Dahi,87,45
+27-01-2026,Pune,Ghee,A2 Gir Cow Ghee,72,1000
+25-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,22,1000
+04-02-2026,Jaipur,Dairy Products,Door Bag,25,250
+04-02-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,26,75
+21-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,116,55
+16-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,37,55
+28-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,19,195
+30-01-2026,Mumbai,Ghee,Cultured Cow Ghee,96,500
+06-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,24,100
+29-01-2026,Mumbai,High Protein Milk,Kesar Elaichi,66,100
+26-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,70,500
+04-01-2026,Delhi NCR,High Protein Milk,Mango Milk,101,130
+02-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,56,195
+10-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,48,50
+17-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,32,1000
+24-01-2026,Mumbai,Dairy Products,Door Bag,111,250
+19-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,8,1000
+13-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,20,500
+08-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,9,50
+06-01-2026,Mumbai,Dairy Products,Chocolate Milk,31,90
+23-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,118,100
+21-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,25,55
+30-01-2026,Delhi NCR,High Protein Milk,Coffee,101,90
+12-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,118,1000
+19-01-2026,Jaipur,Ghee,Buffalo Ghee,98,500
+23-02-2026,Jaipur,Dairy Products,Chocolate Milk,22,90
+06-02-2026,Hyderabad,High Protein Milk,Coffee,90,90
+26-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,11,500
+09-01-2026,Delhi NCR,Ghee,Buffalo Ghee,70,500
+26-01-2026,Jaipur,Ghee,Buffalo Ghee,86,500
+03-02-2026,Mumbai,High Protein Milk,Cacao Milk,79,120
+10-01-2026,Jaipur,Ghee,Cultured Cow Ghee,77,500
+14-02-2026,Jaipur,High Protein Milk,Matcha,32,125
+06-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,101,55
+06-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,41,55
+02-03-2026,Pune,High Protein Milk,Kesar Elaichi,105,100
+16-02-2026,Mumbai,Ghee,Buffalo Ghee,100,500
+08-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,78,55
+01-03-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,27,1000
+23-02-2026,Hyderabad,Ghee,Buffalo Ghee,94,500
+18-01-2026,Hyderabad,Dairy Products,Dahi,99,45
+19-02-2026,Pune,Dairy Products,Cow Milk Paneer,79,100
+19-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,18,195
+15-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,10,100
+06-01-2026,Jaipur,High Protein Milk,Milk,93,75
+12-01-2026,Mumbai,Dairy Products,Dahi,17,45
+15-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,104,50
+25-02-2026,Delhi NCR,Ghee,Buffalo Ghee,8,500
+02-03-2026,Pune,Dairy Products,Kharwas,57,75
+02-02-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,83,75
+30-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,95,75
+05-02-2026,Pune,Ghee,Buffalo Ghee,53,500
+18-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,116,100
+01-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,109,1000
+02-03-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,106,1000
+13-01-2026,Hyderabad,High Protein Milk,Mango Milk,90,130
+06-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,59,55
+02-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,108,55
+19-02-2026,Hyderabad,Dairy Products,Door Bag,49,250
+15-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,99,1000
+04-01-2026,Hyderabad,Dairy Products,Door Bag,59,250
+11-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,63,1000
+08-02-2026,Pune,Dairy Products,Chocolate Milk,19,90
+27-02-2026,Pune,Ghee,Cultured Cow Ghee,29,500
+25-02-2026,Jaipur,Dairy Products,Kharwas,40,75
+21-01-2026,Jaipur,High Protein Milk,Cacao Milk,80,120
+19-02-2026,Pune,High Protein Milk,Milk 250 ML Pouch,43,75
+09-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,23,55
+17-01-2026,Jaipur,Dairy Products,Door Bag,119,250
+09-01-2026,Jaipur,Dairy Products,Chocolate Milk,89,90
+14-01-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,108,55
+24-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,45,50
+23-02-2026,Mumbai,Ghee,Cultured Cow Ghee,41,500
+05-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,112,75
+05-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,8,50
+10-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,31,1000
+17-02-2026,Mumbai,High Protein Milk,Milk 0.5L,10,120
+23-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,38,1000
+27-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,57,50
+06-01-2026,Pune,Ghee,A2 Gir Cow Ghee,106,1000
+25-01-2026,Mumbai,Ghee,Cultured Cow Ghee,102,500
+07-01-2026,Mumbai,Dairy Products,Dahi,47,45
+20-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,30,50
+22-02-2026,Pune,High Protein Milk,Milk,107,75
+11-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,69,75
+11-02-2026,Jaipur,Ghee,Buffalo Ghee,63,500
+24-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,41,55
+27-02-2026,Pune,Dairy Products,Dahi,13,45
+01-01-2026,Mumbai,Dairy Products,Chocolate Milk,89,90
+02-01-2026,Jaipur,Dairy Products,Kharwas,55,75
+16-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,54,55
+16-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,49,55
+25-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,59,90
+13-01-2026,Delhi NCR,High Protein Milk,Milk 0.5L,34,120
+04-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,90,55
+14-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,6,195
+25-02-2026,Pune,High Protein Milk,Kesar Elaichi,107,100
+28-01-2026,Mumbai,Dairy Products,Chocolate Milk,77,90
+09-02-2026,Pune,Dairy Products,A2 Gir Cow Paneer,45,195
+17-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,41,55
+20-01-2026,Hyderabad,Dairy Products,Cow Milk Paneer,104,100
+13-02-2026,Hyderabad,Dairy Products,Dahi,21,45
+10-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,9,75
+27-01-2026,Pune,Dairy Products,Cow Milk Paneer,83,100
+13-02-2026,Hyderabad,High Protein Milk,Matcha,118,125
+31-01-2026,Delhi NCR,Dairy Products,Kharwas,93,75
+02-03-2026,Mumbai,Ghee,Buffalo Ghee,82,500
+05-02-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,33,75
+28-01-2026,Jaipur,High Protein Milk,Matcha,27,125
+25-02-2026,Hyderabad,High Protein Milk,Kesar Elaichi,111,100
+25-01-2026,Pune,Ghee,Cultured Cow Ghee,113,500
+27-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,79,55
+09-01-2026,Hyderabad,Dairy Products,Cow Milk Paneer,41,100
+13-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,19,75
+09-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,40,1000
+24-01-2026,Pune,Ghee,A2 Gir Cow Ghee,31,1000
+13-02-2026,Mumbai,Dairy Products,Dahi,24,45
+17-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,59,195
+12-01-2026,Mumbai,Ghee,Cultured Cow Ghee,51,500
+01-03-2026,Hyderabad,High Protein Milk,Mango Milk,34,130
+24-01-2026,Mumbai,Ghee,Cultured Cow Ghee,30,500
+26-01-2026,Mumbai,Dairy Products,Kharwas,7,75
+10-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,82,55
+18-01-2026,Pune,Ghee,Cultured Cow Ghee,60,500
+01-03-2026,Hyderabad,Dairy Products,Chocolate Milk,49,90
+20-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,107,50
+14-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,113,120
+21-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,111,50
+09-01-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,68,55
+06-01-2026,Pune,High Protein Milk,Cacao Milk,104,120
+28-01-2026,Hyderabad,Dairy Products,Cow Milk Paneer,82,100
+20-01-2026,Hyderabad,High Protein Milk,Milk,19,75
+24-01-2026,Jaipur,Ghee,Cultured Cow Ghee,35,500
+22-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,85,50
+11-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,12,100
+22-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,63,55
+13-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,100,75
+10-01-2026,Pune,Dairy Products,Chocolate Milk,7,90
+02-03-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,108,195
+16-01-2026,Jaipur,High Protein Milk,Kesar Elaichi,19,100
+15-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,47,100
+04-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,46,55
+18-02-2026,Mumbai,Ghee,Cultured Cow Ghee,8,500
+29-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,63,195
+05-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,106,55
+05-02-2026,Hyderabad,Dairy Products,Door Bag,119,250
+24-01-2026,Jaipur,Ghee,Buffalo Ghee,109,500
+02-03-2026,Pune,Dairy Products,Cow Milk Paneer,88,100
+06-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,100,55
+19-01-2026,Jaipur,Dairy Products,Kharwas,44,75
+14-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,12,75
+05-02-2026,Hyderabad,High Protein Milk,Milk,111,75
+27-02-2026,Mumbai,High Protein Milk,Matcha,63,125
+26-01-2026,Pune,High Protein Milk,Milk 0.5L,15,120
+11-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,57,500
+19-02-2026,Delhi NCR,High Protein Milk,Mango Milk,44,130
+18-01-2026,Mumbai,High Protein Milk,Cacao Milk,52,120
+24-01-2026,Jaipur,Ghee,Buffalo Ghee,106,500
+27-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,85,75
+01-03-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,78,55
+10-02-2026,Hyderabad,Ghee,Buffalo Ghee,48,500
+13-02-2026,Pune,Ghee,A2 Gir Cow Ghee,79,1000
+24-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,6,195
+13-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,21,55
+16-01-2026,Hyderabad,High Protein Milk,Milk 0.5L,33,120
+11-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,39,500
+13-02-2026,Mumbai,Dairy Products,Dahi,58,45
+01-03-2026,Mumbai,High Protein Milk,Coffee,76,90
+11-01-2026,Delhi NCR,Dairy Products,Dahi,74,45
+21-01-2026,Mumbai,Dairy Products,Door Bag,62,250
+15-01-2026,Delhi NCR,High Protein Milk,Milk,17,75
+02-01-2026,Pune,Ghee,Buffalo Ghee,110,500
+09-02-2026,Hyderabad,High Protein Milk,Milk,75,75
+01-02-2026,Pune,Dairy Products,Dahi,42,45
+11-02-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,61,75
+22-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,87,55
+07-02-2026,Hyderabad,Dairy Products,Door Bag,112,250
+24-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,22,1000
+01-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,89,55
+28-02-2026,Jaipur,High Protein Milk,Mango Milk,65,130
+01-01-2026,Hyderabad,Dairy Products,Door Bag,100,250
+07-01-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,75,55
+02-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,23,75
+15-02-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,93,75
+01-02-2026,Mumbai,Ghee,Cultured Cow Ghee,86,500
+24-02-2026,Pune,Ghee,A2 Gir Cow Ghee,114,1000
+24-02-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,42,75
+23-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,44,500
+11-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,55,100
+10-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,114,50
+04-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,105,55
+08-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,11,500
+24-02-2026,Hyderabad,Dairy Products,Door Bag,115,250
+23-02-2026,Hyderabad,Dairy Products,Chocolate Milk,15,90
+03-01-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,22,55
+18-02-2026,Pune,High Protein Milk,Matcha,59,125
+10-02-2026,Pune,High Protein Milk,Cacao Milk,120,120
+14-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,85,50
+14-01-2026,Pune,Dairy Products,A2 Gir Cow Paneer,61,195
+25-02-2026,Mumbai,High Protein Milk,Milk 0.5L,18,120
+16-01-2026,Mumbai,Ghee,Buffalo Ghee,17,500
+23-02-2026,Pune,Dairy Products,Kharwas,71,75
+04-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,79,1000
+02-03-2026,Jaipur,Ghee,Buffalo Ghee,76,500
+19-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,82,1000
+12-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,10,1000
+27-02-2026,Pune,Ghee,A2 Gir Cow Ghee,26,1000
+26-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,108,55
+16-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,93,55
+23-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,50,50
+03-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,99,55
+19-02-2026,Hyderabad,High Protein Milk,Matcha,84,125
+15-01-2026,Pune,Ghee,Buffalo Ghee,18,500
+15-02-2026,Jaipur,Dairy Products,Kharwas,12,75
+18-02-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,110,195
+21-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,53,195
+05-01-2026,Delhi NCR,Dairy Products,Kharwas,6,75
+08-01-2026,Jaipur,Dairy Products,Kharwas,109,75
+19-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,30,50
+31-01-2026,Hyderabad,High Protein Milk,Milk,11,75
+18-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,117,100
+04-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,48,1000
+03-01-2026,Pune,Ghee,A2 Gir Cow Ghee,69,1000
+02-01-2026,Delhi NCR,High Protein Milk,Coffee,22,90
+08-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,103,1000
+06-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,50,50
+23-01-2026,Pune,Ghee,Buffalo Ghee,111,500
+08-01-2026,Delhi NCR,Dairy Products,Door Bag,17,250
+02-01-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,51,55
+09-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,117,100
+17-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,11,55
+01-03-2026,Mumbai,High Protein Milk,Kesar Elaichi,49,100
+17-02-2026,Mumbai,Ghee,Cultured Cow Ghee,14,500
+17-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,27,50
+23-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,97,75
+28-01-2026,Hyderabad,High Protein Milk,Matcha,78,125
+06-02-2026,Pune,High Protein Milk,Cacao Milk,51,120
+04-01-2026,Jaipur,Dairy Products,Dahi,60,45
+01-01-2026,Mumbai,High Protein Milk,Mango Milk,114,130
+07-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,24,1000
+01-01-2026,Jaipur,High Protein Milk,Mango Milk,55,130
+24-02-2026,Delhi NCR,Dairy Products,Door Bag,71,250
+17-02-2026,Pune,Dairy Products,Cow Milk Paneer,19,100
+03-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,77,55
+30-01-2026,Mumbai,Dairy Products,Kharwas,102,75
+09-01-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,6,55
+21-01-2026,Jaipur,Ghee,Buffalo Ghee,24,500
+01-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,108,50
+20-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,28,75
+18-02-2026,Pune,High Protein Milk,Cacao Milk,9,120
+13-02-2026,Hyderabad,High Protein Milk,Chickoo Milk,41,120
+22-02-2026,Delhi NCR,High Protein Milk,Matcha,68,125
+09-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,8,50
+14-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,61,50
+18-02-2026,Mumbai,High Protein Milk,Cacao Milk,120,120
+16-01-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,79,100
+04-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,71,50
+14-02-2026,Delhi NCR,High Protein Milk,Matcha,40,125
+25-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,112,75
+05-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,12,55
+02-01-2026,Pune,High Protein Milk,Kesar Elaichi,24,100
+13-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,97,50
+06-01-2026,Mumbai,Ghee,Cultured Cow Ghee,101,500
+26-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,17,500
+27-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,79,1000
+17-02-2026,Pune,High Protein Milk,Coffee,22,90
+27-01-2026,Hyderabad,High Protein Milk,Milk,40,75
+20-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,10,50
+25-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,87,1000
+13-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,79,55
+11-02-2026,Jaipur,Dairy Products,Chocolate Milk,82,90
+11-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,37,195
+12-01-2026,Hyderabad,Ghee,Buffalo Ghee,83,500
+06-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,50,1000
+17-02-2026,Pune,High Protein Milk,Milk 0.5L,32,120
+28-02-2026,Hyderabad,Dairy Products,Door Bag,78,250
+27-02-2026,Pune,Ghee,A2 Gir Cow Ghee,58,1000
+20-02-2026,Pune,Dairy Products,Chocolate Milk,25,90
+17-02-2026,Delhi NCR,Dairy Products,Kharwas,98,75
+02-03-2026,Jaipur,High Protein Milk,Kesar Elaichi,16,100
+13-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,80,55
+13-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,89,50
+13-02-2026,Delhi NCR,High Protein Milk,Chickoo Milk,108,120
+10-01-2026,Jaipur,High Protein Milk,Chickoo Milk,12,120
+05-01-2026,Mumbai,High Protein Milk,Matcha,24,125
+01-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,63,55
+14-01-2026,Hyderabad,High Protein Milk,Milk,56,75
+12-01-2026,Mumbai,Ghee,Buffalo Ghee,106,500
+11-02-2026,Mumbai,Ghee,Buffalo Ghee,57,500
+27-02-2026,Delhi NCR,Dairy Products,Dahi,8,45
+13-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,18,1000
+18-02-2026,Mumbai,Ghee,Cultured Cow Ghee,62,500
+15-02-2026,Delhi NCR,Dairy Products,Dahi,53,45
+31-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,90,75
+06-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,22,500
+01-03-2026,Delhi NCR,Ghee,Buffalo Ghee,18,500
+23-01-2026,Pune,Ghee,Cultured Cow Ghee,79,500
+18-01-2026,Mumbai,High Protein Milk,Milk 0.5L,21,120
+16-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,8,55
+10-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,90,195
+17-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,83,50
+16-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,52,55
+08-02-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,108,50
+16-01-2026,Pune,High Protein Milk,Milk,113,75
+18-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,114,1000
+03-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,84,75
+26-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,48,195
+07-01-2026,Delhi NCR,Dairy Products,Door Bag,39,250
+26-02-2026,Mumbai,Ghee,Cultured Cow Ghee,34,500
+18-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,114,55
+18-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,61,75
+25-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,116,55
+12-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,57,195
+14-01-2026,Pune,Ghee,Buffalo Ghee,103,500
+24-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,31,55
+27-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,62,55
+12-02-2026,Mumbai,Ghee,Cultured Cow Ghee,69,500
+28-01-2026,Pune,Ghee,Cultured Cow Ghee,34,500
+14-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,102,50
+11-01-2026,Pune,Dairy Products,Dahi,102,45
+25-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,110,195
+31-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,103,50
+19-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,61,1000
+13-01-2026,Mumbai,High Protein Milk,Cacao Milk,43,120
+10-02-2026,Pune,Ghee,Cultured Cow Ghee,110,500
+30-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,71,195
+04-02-2026,Jaipur,Ghee,Cultured Cow Ghee,17,500
+25-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,7,55
+24-02-2026,Jaipur,Dairy Products,Chocolate Milk,104,90
+02-03-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,88,50
+13-02-2026,Pune,Dairy Products,Chocolate Milk,9,90
+19-01-2026,Delhi NCR,High Protein Milk,Milk 0.5L,37,120
+23-01-2026,Jaipur,Ghee,Cultured Cow Ghee,61,500
+04-01-2026,Delhi NCR,High Protein Milk,Mango Milk,37,130
+31-01-2026,Hyderabad,Dairy Products,Door Bag,84,250
+24-01-2026,Pune,High Protein Milk,Kesar Elaichi,22,100
+22-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,24,55
+23-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,37,50
+12-02-2026,Delhi NCR,Ghee,Buffalo Ghee,101,500
+08-01-2026,Hyderabad,Dairy Products,Door Bag,8,250
+21-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,52,55
+06-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,30,500
+24-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,61,55
+02-02-2026,Pune,High Protein Milk,Matcha,119,125
+31-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,87,55
+25-01-2026,Jaipur,Ghee,Buffalo Ghee,72,500
+09-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,61,50
+25-01-2026,Pune,Dairy Products,A2 Gir Cow Paneer,60,195
+10-02-2026,Pune,Dairy Products,Cow Milk Paneer,48,100
+23-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,10,500
+21-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,50,195
+11-02-2026,Pune,High Protein Milk,Mango Milk,73,130
+10-01-2026,Mumbai,Dairy Products,Chocolate Milk,11,90
+13-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,107,55
+11-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,89,100
+28-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,71,55
+18-01-2026,Pune,High Protein Milk,Matcha,59,125
+26-02-2026,Pune,Dairy Products,Kharwas,66,75
+25-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,31,500
+25-02-2026,Delhi NCR,High Protein Milk,Milk,21,75
+08-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,17,1000
+14-02-2026,Pune,High Protein Milk,Coffee,37,90
+21-02-2026,Jaipur,Ghee,Cultured Cow Ghee,54,500
+11-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,107,55
+02-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,51,500
+14-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,87,55
+25-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,89,500
+16-02-2026,Mumbai,High Protein Milk,Matcha,13,125
+24-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,116,500
+29-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,89,1000
+16-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,81,500
+28-01-2026,Mumbai,Ghee,Cultured Cow Ghee,89,500
+24-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,17,55
+23-01-2026,Mumbai,High Protein Milk,Chickoo Milk,89,120
+21-02-2026,Delhi NCR,High Protein Milk,Mango Milk,112,130
+24-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,80,50
+22-02-2026,Jaipur,Dairy Products,Chocolate Milk,96,90
+18-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,26,50
+11-01-2026,Hyderabad,High Protein Milk,Cacao Milk,78,120
+04-02-2026,Mumbai,Ghee,Cultured Cow Ghee,19,500
+24-02-2026,Delhi NCR,Dairy Products,Kharwas,120,75
+04-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,105,120
+14-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,24,195
+05-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,18,55
+21-02-2026,Pune,Dairy Products,Chocolate Milk,66,90
+28-01-2026,Pune,Dairy Products,A2 Gir Cow Paneer,75,195
+22-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,52,50
+23-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,89,55
+24-01-2026,Delhi NCR,High Protein Milk,Mango Milk,94,130
+14-02-2026,Pune,Dairy Products,Kharwas,111,75
+25-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,106,500
+27-02-2026,Pune,High Protein Milk,Milk,111,75
+15-01-2026,Jaipur,Dairy Products,Chocolate Milk,44,90
+28-02-2026,Mumbai,High Protein Milk,Chickoo Milk,12,120
+12-02-2026,Pune,Ghee,Buffalo Ghee,80,500
+17-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,113,50
+13-01-2026,Delhi NCR,High Protein Milk,Milk,70,75
+23-01-2026,Jaipur,High Protein Milk,Milk 0.5L,61,120
+01-01-2026,Jaipur,Ghee,Buffalo Ghee,102,500
+02-03-2026,Jaipur,High Protein Milk,Matcha,49,125
+08-02-2026,Pune,High Protein Milk,Chickoo Milk,91,120
+06-01-2026,Hyderabad,High Protein Milk,Milk,107,75
+17-02-2026,Mumbai,High Protein Milk,Cacao Milk,43,120
+01-03-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,57,100
+27-02-2026,Pune,High Protein Milk,Milk 250 ML Pouch,120,75
+22-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,68,50
+22-01-2026,Hyderabad,Ghee,Buffalo Ghee,113,500
+09-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,100,100
+20-02-2026,Pune,High Protein Milk,Chickoo Milk,119,120
+08-02-2026,Hyderabad,Dairy Products,Chocolate Milk,41,90
+07-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,13,100
+22-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,27,50
+06-01-2026,Pune,Ghee,Cultured Cow Ghee,18,500
+02-03-2026,Pune,High Protein Milk,Coffee,59,90
+09-02-2026,Hyderabad,Ghee,Buffalo Ghee,17,500
+10-01-2026,Jaipur,High Protein Milk,Mango Milk,108,130
+08-02-2026,Mumbai,High Protein Milk,Chickoo Milk,12,120
+22-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,55,50
+08-02-2026,Hyderabad,Ghee,Buffalo Ghee,38,500
+22-02-2026,Mumbai,Dairy Products,Chocolate Milk,73,90
+28-02-2026,Hyderabad,High Protein Milk,Milk,101,75
+04-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,55,100
+16-01-2026,Hyderabad,Dairy Products,Door Bag,59,250
+12-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,29,195
+02-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,22,195
+22-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,29,55
+19-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,21,100
+28-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,48,100
+26-01-2026,Mumbai,Ghee,Cultured Cow Ghee,6,500
+22-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,101,50
+25-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,38,55
+14-01-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,30,75
+05-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,61,120
+17-01-2026,Hyderabad,Dairy Products,Chocolate Milk,84,90
+31-01-2026,Jaipur,High Protein Milk,Matcha,86,125
+17-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,40,50
+11-01-2026,Delhi NCR,High Protein Milk,Mango Milk,42,130
+16-01-2026,Pune,Dairy Products,Kharwas,97,75
+02-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,119,500
+10-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,73,500
+23-02-2026,Jaipur,Ghee,Buffalo Ghee,83,500
+15-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,33,195
+19-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,53,50
+05-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,76,1000
+04-01-2026,Mumbai,Ghee,Cultured Cow Ghee,65,500
+11-02-2026,Delhi NCR,Dairy Products,Door Bag,79,250
+09-01-2026,Hyderabad,High Protein Milk,Mango Milk,117,130
+17-01-2026,Delhi NCR,Ghee,Buffalo Ghee,99,500
+14-01-2026,Hyderabad,Dairy Products,Chocolate Milk,54,90
+20-02-2026,Pune,Ghee,Buffalo Ghee,6,500
+02-01-2026,Mumbai,Dairy Products,Dahi,116,45
+02-03-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,100,75
+10-01-2026,Pune,High Protein Milk,Mango Milk,19,130
+03-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,98,50
+18-01-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,82,55
+04-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,101,500
+12-02-2026,Hyderabad,Dairy Products,Chocolate Milk,53,90
+02-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,38,55
+19-02-2026,Mumbai,Ghee,Cultured Cow Ghee,58,500
+01-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,102,195
+02-02-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,62,195
+03-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,69,55
+10-01-2026,Hyderabad,Ghee,Buffalo Ghee,120,500
+04-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,108,1000
+04-01-2026,Pune,Dairy Products,Chocolate Milk,74,90
+13-02-2026,Delhi NCR,High Protein Milk,Coffee,85,90
+02-03-2026,Pune,Ghee,A2 Gir Cow Ghee,58,1000
+18-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,118,55
+21-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,88,90
+01-01-2026,Pune,Dairy Products,Kharwas,81,75
+31-01-2026,Mumbai,Ghee,Buffalo Ghee,72,500
+22-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,54,50
+09-01-2026,Delhi NCR,High Protein Milk,Coffee,14,90
+07-02-2026,Delhi NCR,Ghee,Buffalo Ghee,112,500
+12-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,114,195
+18-02-2026,Delhi NCR,Dairy Products,Dahi,78,45
+04-02-2026,Delhi NCR,Ghee,Buffalo Ghee,58,500
+11-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,24,50
+19-01-2026,Jaipur,High Protein Milk,Milk 0.5L,93,120
+16-02-2026,Delhi NCR,Dairy Products,Door Bag,28,250
+27-02-2026,Hyderabad,High Protein Milk,Milk,59,75
+04-01-2026,Mumbai,Ghee,Buffalo Ghee,39,500
+18-01-2026,Mumbai,Ghee,Cultured Cow Ghee,67,500
+14-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,30,55
+05-01-2026,Jaipur,Dairy Products,Kharwas,112,75
+30-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,115,50
+27-02-2026,Jaipur,Dairy Products,Door Bag,111,250
+22-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,28,55
+06-02-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,30,100
+31-01-2026,Mumbai,Dairy Products,Chocolate Milk,38,90
+14-02-2026,Pune,Dairy Products,Chocolate Milk,107,90
+22-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,105,500
+29-01-2026,Pune,High Protein Milk,Matcha,43,125
+01-03-2026,Jaipur,Dairy Products,Kharwas,21,75
+24-01-2026,Mumbai,Ghee,Cultured Cow Ghee,117,500
+28-01-2026,Hyderabad,Ghee,Buffalo Ghee,7,500
+21-02-2026,Pune,Ghee,A2 Gir Cow Ghee,26,1000
+04-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,60,500
+07-02-2026,Pune,Ghee,Cultured Cow Ghee,119,500
+21-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,93,1000
+28-02-2026,Delhi NCR,High Protein Milk,Coffee,37,90
+11-01-2026,Delhi NCR,High Protein Milk,Cacao Milk,44,120
+06-01-2026,Mumbai,Ghee,Buffalo Ghee,75,500
+03-02-2026,Mumbai,Ghee,Buffalo Ghee,28,500
+19-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,69,55
+04-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,83,50
+11-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,120,50
+10-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,42,50
+13-02-2026,Delhi NCR,Ghee,Buffalo Ghee,73,500
+16-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,18,50
+11-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,98,1000
+24-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,63,1000
+09-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,25,55
+10-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,13,1000
+01-03-2026,Hyderabad,High Protein Milk,Chickoo Milk,66,120
+23-01-2026,Mumbai,High Protein Milk,Mango Milk,81,130
+22-01-2026,Jaipur,High Protein Milk,Chickoo Milk,64,120
+27-01-2026,Mumbai,High Protein Milk,Cacao Milk,100,120
+03-02-2026,Hyderabad,Ghee,Buffalo Ghee,102,500
+22-02-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,95,50
+18-02-2026,Pune,Ghee,A2 Gir Cow Ghee,7,1000
+23-02-2026,Delhi NCR,High Protein Milk,Matcha,43,125
+04-01-2026,Mumbai,Ghee,Cultured Cow Ghee,52,500
+15-02-2026,Pune,Dairy Products,Kharwas,33,75
+18-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,77,100
+28-01-2026,Hyderabad,High Protein Milk,Cacao Milk,101,120
+07-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,29,55
+04-01-2026,Hyderabad,Dairy Products,Chocolate Milk,66,90
+21-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,17,50
+22-01-2026,Hyderabad,High Protein Milk,Milk 0.5L,118,120
+11-01-2026,Hyderabad,High Protein Milk,Milk,89,75
+25-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,110,75
+16-01-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,99,100
+25-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,63,50
+07-02-2026,Delhi NCR,Dairy Products,Door Bag,94,250
+02-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,14,1000
+21-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,18,50
+04-01-2026,Hyderabad,Dairy Products,Chocolate Milk,84,90
+17-02-2026,Mumbai,Ghee,Cultured Cow Ghee,31,500
+24-01-2026,Delhi NCR,High Protein Milk,Milk,116,75
+12-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,53,1000
+20-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,93,55
+14-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,119,1000
+13-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,8,55
+18-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,30,195
+20-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,105,195
+03-01-2026,Hyderabad,Dairy Products,Cow Milk Paneer,61,100
+31-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,49,195
+19-02-2026,Pune,Dairy Products,Dahi,108,45
+01-01-2026,Delhi NCR,High Protein Milk,Mango Milk,31,130
+05-02-2026,Hyderabad,High Protein Milk,Matcha,97,125
+21-02-2026,Jaipur,High Protein Milk,Matcha,71,125
+11-02-2026,Pune,Ghee,Cultured Cow Ghee,39,500
+27-01-2026,Delhi NCR,Dairy Products,Dahi,67,45
+13-01-2026,Pune,High Protein Milk,Chickoo Milk,48,120
+21-02-2026,Delhi NCR,Dairy Products,Door Bag,104,250
+20-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,16,100
+12-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,67,1000
+11-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,15,50
+16-02-2026,Jaipur,Dairy Products,Door Bag,36,250
+06-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,31,55
+14-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,5,100
+28-01-2026,Delhi NCR,Dairy Products,Door Bag,22,250
+13-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,69,100
+20-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,101,195
+31-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,99,75
+21-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,63,1000
+13-02-2026,Mumbai,High Protein Milk,Milk 0.5L,10,120
+05-02-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,40,75
+27-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,82,195
+27-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,102,1000
+12-02-2026,Mumbai,Dairy Products,Door Bag,101,250
+23-01-2026,Pune,High Protein Milk,Kesar Elaichi,38,100
+25-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,55,195
+16-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,32,75
+08-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,75,50
+23-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,117,55
+30-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,64,55
+17-02-2026,Mumbai,High Protein Milk,Chickoo Milk,31,120
+09-02-2026,Jaipur,High Protein Milk,Coffee,119,90
+23-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,99,90
+22-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,42,50
+25-02-2026,Mumbai,Ghee,Buffalo Ghee,7,500
+07-02-2026,Mumbai,Ghee,Cultured Cow Ghee,92,500
+09-01-2026,Delhi NCR,High Protein Milk,Mango Milk,94,130
+05-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,105,1000
+05-02-2026,Hyderabad,Ghee,Buffalo Ghee,98,500
+15-02-2026,Delhi NCR,Dairy Products,Kharwas,32,75
+31-01-2026,Hyderabad,Ghee,Buffalo Ghee,33,500
+20-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,65,100
+28-02-2026,Mumbai,Ghee,Cultured Cow Ghee,6,500
+18-02-2026,Pune,Ghee,Cultured Cow Ghee,43,500
+11-01-2026,Mumbai,High Protein Milk,Kesar Elaichi,35,100
+18-02-2026,Jaipur,High Protein Milk,Mango Milk,35,130
+01-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,95,55
+02-03-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,100,50
+09-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,96,195
+08-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,110,55
+22-01-2026,Jaipur,High Protein Milk,Milk,80,75
+22-02-2026,Jaipur,Dairy Products,Chocolate Milk,111,90
+11-02-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,75,195
+01-02-2026,Jaipur,Dairy Products,Kharwas,84,75
+07-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,30,195
+11-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,40,55
+13-02-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,50,75
+09-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,72,50
+11-01-2026,Pune,Ghee,A2 Gir Cow Ghee,40,1000
+19-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,14,1000
+27-01-2026,Jaipur,Ghee,Buffalo Ghee,75,500
+18-01-2026,Hyderabad,Ghee,Buffalo Ghee,42,500
+22-01-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,65,55
+09-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,105,1000
+05-02-2026,Mumbai,Ghee,Cultured Cow Ghee,99,500
+08-01-2026,Hyderabad,High Protein Milk,Mango Milk,64,130
+19-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,45,1000
+13-02-2026,Pune,Ghee,Buffalo Ghee,12,500
+31-01-2026,Jaipur,High Protein Milk,Matcha,28,125
+22-02-2026,Mumbai,Dairy Products,Chocolate Milk,106,90
+15-02-2026,Pune,Dairy Products,Dahi,29,45
+19-02-2026,Jaipur,Dairy Products,Dahi,33,45
+07-01-2026,Delhi NCR,Dairy Products,Kharwas,37,75
+08-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,15,50
+22-01-2026,Pune,Ghee,Buffalo Ghee,66,500
+28-01-2026,Delhi NCR,High Protein Milk,Coffee,103,90
+26-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,46,55
+28-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,56,55
+29-01-2026,Delhi NCR,Dairy Products,Dahi,109,45
+31-01-2026,Hyderabad,Dairy Products,Kharwas,44,75
+16-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,94,75
+01-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,69,55
+28-02-2026,Delhi NCR,High Protein Milk,Milk,63,75
+07-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,13,55
+24-02-2026,Pune,Ghee,A2 Gir Cow Ghee,13,1000
+27-01-2026,Jaipur,Dairy Products,Door Bag,95,250
+31-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,86,1000
+14-02-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,12,55
+19-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,92,195
+11-02-2026,Delhi NCR,High Protein Milk,Milk,102,75
+19-01-2026,Mumbai,Dairy Products,Kharwas,96,75
+12-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,58,50
+28-02-2026,Jaipur,Dairy Products,Kharwas,96,75
+05-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,49,75
+05-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,90,55
+16-01-2026,Hyderabad,Dairy Products,Cow Milk Paneer,83,100
+30-01-2026,Delhi NCR,Dairy Products,Kharwas,63,75
+03-02-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,70,75
+08-01-2026,Mumbai,High Protein Milk,Milk,116,75
+15-01-2026,Delhi NCR,Dairy Products,Kharwas,117,75
+05-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,32,75
+20-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,119,1000
+02-03-2026,Mumbai,Ghee,A2 Gir Cow Ghee,64,1000
+29-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,42,55
+03-01-2026,Hyderabad,Dairy Products,Dahi,72,45
+06-01-2026,Mumbai,Dairy Products,Chocolate Milk,88,90
+23-01-2026,Jaipur,Dairy Products,Kharwas,68,75
+27-02-2026,Jaipur,Dairy Products,Dahi,31,45
+10-01-2026,Jaipur,High Protein Milk,Cacao Milk,107,120
+19-01-2026,Hyderabad,Ghee,Buffalo Ghee,108,500
+21-02-2026,Mumbai,Dairy Products,Dahi,57,45
+08-01-2026,Jaipur,High Protein Milk,Milk 0.5L,119,120
+08-02-2026,Jaipur,High Protein Milk,Milk,101,75
+21-01-2026,Mumbai,Ghee,Buffalo Ghee,107,500
+30-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,117,75
+04-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,43,50
+09-01-2026,Pune,Dairy Products,Door Bag,87,250
+16-02-2026,Delhi NCR,Ghee,Buffalo Ghee,19,500
+25-02-2026,Mumbai,Dairy Products,Kharwas,100,75
+13-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,83,55
+09-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,105,100
+05-01-2026,Jaipur,High Protein Milk,Matcha,5,125
+10-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,73,1000
+14-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,83,55
+13-01-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,95,55
+10-02-2026,Jaipur,High Protein Milk,Matcha,36,125
+18-02-2026,Pune,High Protein Milk,Chickoo Milk,7,120
+07-01-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,87,75
+07-02-2026,Jaipur,High Protein Milk,Milk,42,75
+01-03-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,80,50
+07-02-2026,Jaipur,High Protein Milk,Coffee,72,90
+05-01-2026,Hyderabad,Dairy Products,Dahi,44,45
+16-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,51,1000
+03-02-2026,Pune,Dairy Products,Cow Milk Paneer,74,100
+05-01-2026,Jaipur,High Protein Milk,Kesar Elaichi,80,100
+13-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,90,55
+03-02-2026,Delhi NCR,High Protein Milk,Mango Milk,93,130
+24-01-2026,Jaipur,High Protein Milk,Matcha,28,125
+31-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,60,75
+25-02-2026,Pune,Ghee,Cultured Cow Ghee,43,500
+17-01-2026,Jaipur,High Protein Milk,Cacao Milk,96,120
+07-01-2026,Jaipur,High Protein Milk,Cacao Milk,96,120
+22-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,93,500
+15-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,67,55
+11-01-2026,Jaipur,High Protein Milk,Milk,20,75
+01-03-2026,Mumbai,High Protein Milk,Matcha,22,125
+22-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,53,50
+29-01-2026,Delhi NCR,Ghee,Buffalo Ghee,35,500
+16-02-2026,Jaipur,Ghee,Cultured Cow Ghee,118,500
+22-01-2026,Pune,High Protein Milk,Coffee,88,90
+11-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,100,75
+01-03-2026,Pune,High Protein Milk,Matcha,33,125
+20-01-2026,Pune,Dairy Products,Dahi,21,45
+19-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,61,75
+20-01-2026,Hyderabad,High Protein Milk,Milk,22,75
+30-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,117,195
+20-01-2026,Mumbai,Ghee,Buffalo Ghee,33,500
+07-02-2026,Delhi NCR,Dairy Products,Door Bag,41,250
+01-02-2026,Jaipur,Ghee,Buffalo Ghee,61,500
+19-01-2026,Pune,High Protein Milk,Chickoo Milk,76,120
+17-02-2026,Jaipur,Dairy Products,Kharwas,102,75
+02-03-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,85,55
+07-02-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,26,50
+26-01-2026,Pune,Ghee,A2 Gir Cow Ghee,49,1000
+28-01-2026,Jaipur,Ghee,Cultured Cow Ghee,109,500
+14-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,85,100
+05-02-2026,Mumbai,Ghee,Buffalo Ghee,26,500
+13-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,52,50
+20-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,105,120
+04-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,12,1000
+02-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,31,55
+05-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,33,55
+31-01-2026,Delhi NCR,Dairy Products,Door Bag,91,250
+09-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,84,500
+09-02-2026,Mumbai,High Protein Milk,Chickoo Milk,38,120
+10-01-2026,Jaipur,High Protein Milk,Mango Milk,111,130
+10-02-2026,Delhi NCR,High Protein Milk,Chickoo Milk,16,120
+23-02-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,22,195
+28-02-2026,Hyderabad,High Protein Milk,Chickoo Milk,53,120
+24-01-2026,Mumbai,Dairy Products,Door Bag,116,250
+28-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,25,1000
+11-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,24,1000
+16-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,44,55
+23-02-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,46,75
+13-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,6,100
+15-02-2026,Pune,Ghee,A2 Gir Cow Ghee,24,1000
+06-02-2026,Pune,High Protein Milk,Cacao Milk,71,120
+07-01-2026,Delhi NCR,Ghee,Buffalo Ghee,23,500
+04-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,78,500
+20-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,52,195
+24-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,18,100
+05-01-2026,Jaipur,Ghee,Buffalo Ghee,52,500
+10-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,110,1000
+11-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,40,100
+07-02-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,7,75
+04-02-2026,Jaipur,Dairy Products,Door Bag,92,250
+12-02-2026,Delhi NCR,Ghee,Buffalo Ghee,48,500
+22-01-2026,Pune,Dairy Products,Kharwas,91,75
+28-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,50,55
+19-02-2026,Delhi NCR,High Protein Milk,Coffee,78,90
+07-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,71,500
+27-02-2026,Delhi NCR,Dairy Products,Kharwas,95,75
+01-02-2026,Mumbai,High Protein Milk,Chickoo Milk,6,120
+20-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,79,500
+18-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,101,120
+02-01-2026,Mumbai,High Protein Milk,Chickoo Milk,46,120
+11-01-2026,Jaipur,Dairy Products,Kharwas,119,75
+04-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,28,75
+24-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,94,195
+27-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,62,500
+19-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,77,50
+01-01-2026,Delhi NCR,High Protein Milk,Cacao Milk,98,120
+07-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,120,50
+08-02-2026,Delhi NCR,Ghee,Buffalo Ghee,10,500
+04-02-2026,Pune,Ghee,Cultured Cow Ghee,50,500
+09-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,90,50
+04-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,9,1000
+31-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,6,75
+01-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,60,100
+05-02-2026,Delhi NCR,High Protein Milk,Mango Milk,34,130
+04-02-2026,Pune,High Protein Milk,Kesar Elaichi,101,100
+08-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,110,195
+10-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,46,55
+29-01-2026,Jaipur,Dairy Products,Chocolate Milk,85,90
+25-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,69,55
+27-02-2026,Pune,Ghee,Buffalo Ghee,101,500
+02-03-2026,Mumbai,Dairy Products,Dahi,7,45
+02-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,27,500
+06-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,16,100
+07-02-2026,Pune,Dairy Products,Cow Milk Paneer,52,100
+25-02-2026,Pune,Dairy Products,Dahi,110,45
+09-02-2026,Hyderabad,Dairy Products,Dahi,36,45
+19-02-2026,Mumbai,Dairy Products,Door Bag,55,250
+27-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,55,55
+31-01-2026,Hyderabad,Dairy Products,Chocolate Milk,110,90
+10-01-2026,Pune,Dairy Products,Kharwas,73,75
+11-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,62,75
+06-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,112,55
+07-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,87,100
+28-01-2026,Hyderabad,Dairy Products,Dahi,22,45
+19-01-2026,Hyderabad,High Protein Milk,Coffee,80,90
+22-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,47,195
+14-02-2026,Delhi NCR,High Protein Milk,Matcha,80,125
+18-01-2026,Hyderabad,High Protein Milk,Milk 0.5L,114,120
+03-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,57,100
+19-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,101,195
+01-03-2026,Jaipur,Dairy Products,Chocolate Milk,53,90
+05-02-2026,Pune,High Protein Milk,Cacao Milk,72,120
+05-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,24,1000
+01-02-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,70,75
+03-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,70,55
+05-01-2026,Pune,Dairy Products,A2 Gir Cow Paneer,12,195
+01-03-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,105,100
+31-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,75,1000
+16-02-2026,Jaipur,High Protein Milk,Coffee,113,90
+03-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,12,100
+10-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,31,500
+20-01-2026,Hyderabad,Dairy Products,Door Bag,26,250
+04-02-2026,Hyderabad,Dairy Products,Door Bag,106,250
+14-02-2026,Hyderabad,High Protein Milk,Mango Milk,120,130
+14-01-2026,Delhi NCR,Ghee,Buffalo Ghee,32,500
+13-01-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,41,100
+08-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,113,100
+24-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,112,55
+14-01-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,54,55
+14-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,116,50
+27-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,22,55
+03-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,110,100
+28-01-2026,Pune,High Protein Milk,Matcha,107,125
+08-02-2026,Jaipur,Ghee,Buffalo Ghee,44,500
+20-02-2026,Pune,Dairy Products,Kharwas,47,75
+13-02-2026,Pune,Ghee,Buffalo Ghee,8,500
+28-02-2026,Jaipur,High Protein Milk,Milk 0.5L,110,120
+07-02-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,109,50
+18-01-2026,Mumbai,High Protein Milk,Cacao Milk,65,120
+07-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,31,55
+22-01-2026,Pune,Dairy Products,Chocolate Milk,18,90
+21-02-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,71,75
+04-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,49,1000
+17-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,114,1000
+15-01-2026,Jaipur,High Protein Milk,Coffee,93,90
+16-02-2026,Mumbai,Dairy Products,Kharwas,79,75
+25-01-2026,Mumbai,Ghee,Buffalo Ghee,120,500
+29-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,40,195
+20-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,95,500
+05-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,77,55
+24-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,85,1000
+03-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,63,100
+24-01-2026,Delhi NCR,Dairy Products,Chocolate Milk,6,90
+01-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,24,75
+01-02-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,29,55
+31-01-2026,Delhi NCR,Dairy Products,Dahi,96,45
+01-03-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,76,195
+24-02-2026,Pune,Dairy Products,Cow Milk Paneer,13,100
+07-02-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,52,75
+08-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,66,1000
+07-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,70,55
+07-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,120,500
+01-03-2026,Jaipur,Dairy Products,Door Bag,6,250
+05-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,12,120
+11-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,26,75
+14-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,24,90
+20-02-2026,Delhi NCR,High Protein Milk,Milk 0.5L,29,120
+21-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,57,1000
+08-02-2026,Mumbai,Dairy Products,Chocolate Milk,62,90
+08-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,99,75
+24-01-2026,Mumbai,Ghee,Buffalo Ghee,52,500
+27-02-2026,Jaipur,High Protein Milk,Mango Milk,76,130
+04-02-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,57,55
+25-01-2026,Pune,High Protein Milk,Matcha,47,125
+16-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,26,1000
+10-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,67,50
+24-02-2026,Hyderabad,Dairy Products,Dahi,52,45
+06-02-2026,Jaipur,Ghee,Buffalo Ghee,24,500
+10-02-2026,Mumbai,High Protein Milk,Milk 0.5L,91,120
+10-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,48,90
+27-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,44,75
+29-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,90,55
+23-02-2026,Pune,Ghee,Cultured Cow Ghee,104,500
+14-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,28,55
+17-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,110,50
+10-01-2026,Delhi NCR,Dairy Products,Chocolate Milk,23,90
+02-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,31,100
+15-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,6,1000
+06-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,27,1000
+02-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,119,75
+30-01-2026,Delhi NCR,High Protein Milk,Mango Milk,120,130
+23-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,30,50
+13-01-2026,Hyderabad,Dairy Products,Dahi,103,45
+27-01-2026,Pune,High Protein Milk,Matcha,82,125
+04-02-2026,Delhi NCR,Ghee,Buffalo Ghee,26,500
+02-02-2026,Jaipur,Dairy Products,Kharwas,37,75
+25-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,82,100
+26-01-2026,Hyderabad,High Protein Milk,Matcha,67,125
+12-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,27,195
+11-01-2026,Hyderabad,High Protein Milk,Coffee,7,90
+15-02-2026,Pune,Dairy Products,Chocolate Milk,96,90
+10-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,75,55
+09-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,7,195
+06-02-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,50,55
+13-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,30,195
+30-01-2026,Jaipur,Ghee,Cultured Cow Ghee,35,500
+21-02-2026,Jaipur,Ghee,Cultured Cow Ghee,17,500
+11-02-2026,Mumbai,High Protein Milk,Mango Milk,81,130
+15-01-2026,Jaipur,Dairy Products,Dahi,112,45
+22-01-2026,Hyderabad,Dairy Products,Kharwas,35,75
+22-01-2026,Hyderabad,Dairy Products,Kharwas,55,75
+27-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,104,50
+09-02-2026,Pune,Dairy Products,A2 Gir Cow Paneer,36,195
+19-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,63,55
+19-02-2026,Pune,Dairy Products,Kharwas,22,75
+22-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,62,195
+13-02-2026,Mumbai,Dairy Products,Dahi,65,45
+03-02-2026,Hyderabad,Dairy Products,Chocolate Milk,8,90
+03-01-2026,Pune,Ghee,A2 Gir Cow Ghee,39,1000
+12-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,73,100
+15-02-2026,Pune,Dairy Products,A2 Gir Cow Paneer,37,195
+14-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,106,75
+01-03-2026,Pune,Ghee,Cultured Cow Ghee,110,500
+18-01-2026,Jaipur,Dairy Products,Kharwas,40,75
+02-03-2026,Mumbai,Dairy Products,Chocolate Milk,17,90
+19-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,48,55
+01-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,110,1000
+26-02-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,16,50
+13-01-2026,Hyderabad,Dairy Products,Chocolate Milk,12,90
+21-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,10,55
+25-02-2026,Pune,Dairy Products,Kharwas,27,75
+09-02-2026,Pune,High Protein Milk,Chickoo Milk,76,120
+13-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,100,55
+27-01-2026,Pune,Ghee,Cultured Cow Ghee,9,500
+05-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,80,55
+13-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,83,55
+11-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,18,50
+12-02-2026,Mumbai,High Protein Milk,Coffee,104,90
+18-02-2026,Mumbai,Dairy Products,Chocolate Milk,40,90
+08-02-2026,Jaipur,High Protein Milk,Matcha,11,125
+14-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,87,100
+16-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,115,55
+26-01-2026,Hyderabad,Dairy Products,Dahi,19,45
+10-01-2026,Pune,Ghee,Buffalo Ghee,16,500
+19-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,63,500
+11-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,42,500
+11-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,10,55
+26-02-2026,Mumbai,Ghee,Buffalo Ghee,85,500
+23-01-2026,Jaipur,Dairy Products,Door Bag,61,250
+11-02-2026,Pune,High Protein Milk,Milk 0.5L,27,120
+08-02-2026,Pune,Dairy Products,Cow Milk Paneer,98,100
+15-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,93,55
+08-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,94,50
+21-01-2026,Hyderabad,High Protein Milk,Cacao Milk,104,120
+01-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,78,50
+20-01-2026,Pune,Dairy Products,Cow Milk Paneer,116,100
+29-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,14,75
+27-01-2026,Mumbai,Dairy Products,Chocolate Milk,99,90
+26-02-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,12,55
+27-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,99,50
+14-02-2026,Jaipur,High Protein Milk,Chickoo Milk,49,120
+20-01-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,72,55
+21-01-2026,Delhi NCR,Ghee,Buffalo Ghee,113,500
+30-01-2026,Delhi NCR,High Protein Milk,Milk 0.5L,79,120
+07-01-2026,Delhi NCR,Ghee,Buffalo Ghee,111,500
+20-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,32,195
+04-01-2026,Delhi NCR,High Protein Milk,Coffee,41,90
+06-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,83,1000
+02-01-2026,Delhi NCR,High Protein Milk,Milk,59,75
+08-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,89,75
+26-02-2026,Delhi NCR,Ghee,Buffalo Ghee,113,500
+01-02-2026,Mumbai,Dairy Products,Chocolate Milk,7,90
+02-02-2026,Pune,High Protein Milk,Milk,85,75
+14-01-2026,Pune,High Protein Milk,Kesar Elaichi,31,100
+09-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,66,50
+24-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,55,1000
+07-01-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,98,75
+01-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,57,55
+26-02-2026,Pune,Ghee,Buffalo Ghee,51,500
+27-02-2026,Pune,Ghee,Buffalo Ghee,109,500
+16-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,7,55
+14-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,86,90
+19-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,21,50
+20-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,95,55
+15-02-2026,Jaipur,Dairy Products,Door Bag,10,250
+04-01-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,10,75
+26-01-2026,Jaipur,Dairy Products,Chocolate Milk,29,90
+12-01-2026,Pune,High Protein Milk,Mango Milk,44,130
+20-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,20,75
+17-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,44,55
+26-02-2026,Pune,Dairy Products,Chocolate Milk,35,90
+01-02-2026,Jaipur,Ghee,Cultured Cow Ghee,33,500
+04-01-2026,Delhi NCR,Dairy Products,Dahi,11,45
+06-02-2026,Pune,Dairy Products,Kharwas,86,75
+08-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,99,50
+23-02-2026,Pune,Dairy Products,A2 Gir Cow Paneer,28,195
+15-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,29,55
+19-02-2026,Pune,Dairy Products,Kharwas,44,75
+07-02-2026,Hyderabad,Dairy Products,Chocolate Milk,76,90
+11-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,87,195
+25-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,57,50
+16-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,95,100
+04-02-2026,Pune,High Protein Milk,Milk 0.5L,25,120
+14-01-2026,Pune,High Protein Milk,Chickoo Milk,42,120
+31-01-2026,Delhi NCR,High Protein Milk,Mango Milk,87,130
+24-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,50,100
+10-01-2026,Mumbai,Ghee,Buffalo Ghee,118,500
+04-01-2026,Mumbai,Dairy Products,Kharwas,34,75
+15-01-2026,Hyderabad,High Protein Milk,Matcha,50,125
+07-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,93,55
+16-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,66,50
+29-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,46,500
+02-03-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,98,55
+28-02-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,72,50
+18-01-2026,Delhi NCR,Ghee,Buffalo Ghee,113,500
+23-01-2026,Hyderabad,Ghee,Buffalo Ghee,112,500
+16-02-2026,Pune,Ghee,Cultured Cow Ghee,82,500
+29-01-2026,Jaipur,Dairy Products,Dahi,81,45
+01-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,94,55
+01-02-2026,Jaipur,Ghee,Cultured Cow Ghee,95,500
+30-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,21,1000
+18-02-2026,Jaipur,High Protein Milk,Milk,49,75
+27-01-2026,Mumbai,Dairy Products,Dahi,46,45
+03-01-2026,Mumbai,Ghee,Buffalo Ghee,99,500
+24-02-2026,Jaipur,Ghee,Buffalo Ghee,55,500
+02-01-2026,Pune,Ghee,Cultured Cow Ghee,92,500
+13-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,94,500
+22-02-2026,Jaipur,High Protein Milk,Milk 0.5L,65,120
+12-01-2026,Pune,Ghee,A2 Gir Cow Ghee,29,1000
+01-02-2026,Mumbai,High Protein Milk,Mango Milk,115,130
+22-02-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,76,50
+02-02-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,54,55
+27-02-2026,Mumbai,Ghee,Buffalo Ghee,88,500
+08-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,5,50
+06-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,115,195
+13-01-2026,Pune,Dairy Products,Cow Milk Paneer,94,100
+30-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,104,1000
+10-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,80,75
+21-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,106,90
+18-01-2026,Delhi NCR,Ghee,Buffalo Ghee,29,500
+20-02-2026,Jaipur,Ghee,Cultured Cow Ghee,18,500
+16-01-2026,Mumbai,Ghee,Buffalo Ghee,116,500
+31-01-2026,Jaipur,Dairy Products,Dahi,94,45
+26-01-2026,Mumbai,Ghee,Cultured Cow Ghee,62,500
+18-01-2026,Pune,Dairy Products,Chocolate Milk,112,90
+26-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,112,1000
+15-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,43,100
+31-01-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,26,75
+17-02-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,116,50
+21-01-2026,Jaipur,Ghee,Cultured Cow Ghee,71,500
+27-01-2026,Mumbai,Ghee,Cultured Cow Ghee,91,500
+15-01-2026,Pune,Dairy Products,Door Bag,45,250
+20-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,107,195
+06-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,76,50
+19-01-2026,Mumbai,Ghee,Buffalo Ghee,45,500
+26-02-2026,Mumbai,Dairy Products,Door Bag,41,250
+14-01-2026,Delhi NCR,Ghee,Buffalo Ghee,118,500
+24-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,101,50
+23-02-2026,Hyderabad,High Protein Milk,Milk,58,75
+10-02-2026,Mumbai,Ghee,Cultured Cow Ghee,90,500
+08-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,75,500
+14-02-2026,Mumbai,Ghee,Buffalo Ghee,78,500
+06-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,26,50
+01-03-2026,Delhi NCR,Ghee,Buffalo Ghee,98,500
+17-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,6,100
+19-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,62,50
+01-02-2026,Mumbai,Ghee,Cultured Cow Ghee,31,500
+24-01-2026,Pune,Dairy Products,Door Bag,68,250
+17-01-2026,Delhi NCR,Dairy Products,Dahi,67,45
+26-01-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,76,100
+16-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,100,100
+07-01-2026,Jaipur,Ghee,Buffalo Ghee,42,500
+02-02-2026,Jaipur,High Protein Milk,Milk 0.5L,9,120
+03-02-2026,Delhi NCR,Dairy Products,Door Bag,64,250
+27-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,57,100
+16-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,53,500
+02-03-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,30,50
+15-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,82,50
+09-02-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,79,195
+14-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,61,75
+02-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,93,195
+04-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,93,1000
+16-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,97,1000
+04-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,13,75
+28-02-2026,Mumbai,Ghee,Cultured Cow Ghee,70,500
+10-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,52,50
+06-02-2026,Jaipur,Ghee,Cultured Cow Ghee,43,500
+24-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,25,500
+17-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,74,1000
+04-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,105,55
+11-02-2026,Hyderabad,High Protein Milk,Chickoo Milk,115,120
+06-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,95,55
+25-02-2026,Mumbai,Dairy Products,Door Bag,61,250
+15-01-2026,Mumbai,Dairy Products,Kharwas,56,75
+09-01-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,112,75
+24-02-2026,Pune,High Protein Milk,Cacao Milk,43,120
+16-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,63,100
+23-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,51,55
+06-02-2026,Jaipur,Ghee,Buffalo Ghee,78,500
+06-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,86,100
+25-02-2026,Pune,Ghee,Buffalo Ghee,38,500
+06-02-2026,Mumbai,Ghee,Buffalo Ghee,68,500
+22-02-2026,Jaipur,Ghee,Buffalo Ghee,105,500
+08-02-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,97,50
+26-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,87,120
+07-01-2026,Hyderabad,High Protein Milk,Milk,109,75
+02-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,50,50
+27-01-2026,Jaipur,Dairy Products,Chocolate Milk,48,90
+16-01-2026,Pune,Ghee,A2 Gir Cow Ghee,37,1000
+18-01-2026,Hyderabad,Dairy Products,Chocolate Milk,94,90
+04-02-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,67,55
+11-01-2026,Hyderabad,Dairy Products,Chocolate Milk,78,90
+11-02-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,42,55
+17-01-2026,Pune,High Protein Milk,Chickoo Milk,95,120
+06-02-2026,Jaipur,Dairy Products,Door Bag,41,250
+02-03-2026,Mumbai,Dairy Products,Dahi,29,45
+11-02-2026,Jaipur,High Protein Milk,Chickoo Milk,96,120
+15-01-2026,Delhi NCR,High Protein Milk,Milk,119,75
+15-02-2026,Mumbai,Ghee,Cultured Cow Ghee,89,500
+26-02-2026,Hyderabad,High Protein Milk,Kesar Elaichi,109,100
+05-01-2026,Hyderabad,Dairy Products,Dahi,26,45
+05-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,97,55
+13-02-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,41,100
+10-01-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,110,75
+25-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,7,120
+07-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,94,55
+14-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,60,500
+15-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,49,75
+03-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,66,100
+19-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,92,50
+22-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,37,55
+05-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,114,55
+26-02-2026,Jaipur,Ghee,Cultured Cow Ghee,65,500
+25-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,75,1000
+10-01-2026,Hyderabad,Dairy Products,Chocolate Milk,45,90
+03-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,46,50
+21-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,95,100
+23-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,117,50
+14-01-2026,Jaipur,High Protein Milk,Coffee,8,90
+25-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,44,195
+20-02-2026,Hyderabad,Dairy Products,Chocolate Milk,51,90
+26-02-2026,Delhi NCR,High Protein Milk,Coffee,54,90
+30-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,63,50
+10-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,88,55
+17-01-2026,Jaipur,High Protein Milk,Coffee,59,90
+18-01-2026,Pune,Dairy Products,Kharwas,14,75
+29-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,114,55
+28-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,93,50
+14-01-2026,Jaipur,High Protein Milk,Coffee,32,90
+18-01-2026,Mumbai,Dairy Products,Kharwas,33,75
+13-02-2026,Mumbai,Ghee,Buffalo Ghee,103,500
+26-01-2026,Pune,Ghee,Buffalo Ghee,88,500
+28-02-2026,Delhi NCR,High Protein Milk,Chickoo Milk,83,120
+12-01-2026,Hyderabad,High Protein Milk,Cacao Milk,84,120
+08-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,7,1000
+19-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,22,195
+21-01-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,39,55
+09-02-2026,Pune,Ghee,Buffalo Ghee,19,500
+01-02-2026,Jaipur,High Protein Milk,Chickoo Milk,46,120
+06-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,23,1000
+15-01-2026,Mumbai,Ghee,Buffalo Ghee,23,500
+19-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,21,100
+20-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,91,50
+17-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,41,195
+27-02-2026,Pune,High Protein Milk,Kesar Elaichi,10,100
+27-01-2026,Jaipur,High Protein Milk,Kesar Elaichi,50,100
+27-02-2026,Jaipur,Dairy Products,Kharwas,55,75
+23-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,42,75
+03-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,14,500
+17-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,18,195
+14-01-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,75,75
+18-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,39,1000
+18-01-2026,Mumbai,Ghee,Buffalo Ghee,76,500
+22-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,48,55
+13-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,101,100
+09-01-2026,Jaipur,High Protein Milk,Kesar Elaichi,64,100
+15-01-2026,Jaipur,High Protein Milk,Milk,22,75
+09-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,44,50
+05-01-2026,Delhi NCR,Dairy Products,Door Bag,65,250
+31-01-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,85,100
+14-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,108,50
+16-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,29,55
+05-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,88,50
+05-01-2026,Delhi NCR,High Protein Milk,Mango Milk,45,130
+13-02-2026,Pune,High Protein Milk,Milk 250 ML Pouch,106,75
+08-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,57,1000
+07-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,77,500
+10-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,41,75
+13-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,13,50
+15-02-2026,Jaipur,High Protein Milk,Cacao Milk,21,120
+13-02-2026,Hyderabad,Ghee,Buffalo Ghee,76,500
+24-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,106,55
+28-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,109,195
+13-02-2026,Jaipur,Dairy Products,Chocolate Milk,29,90
+05-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,66,195
+11-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,33,50
+08-01-2026,Mumbai,Dairy Products,Chocolate Milk,82,90
+11-02-2026,Delhi NCR,High Protein Milk,Coffee,111,90
+18-01-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,88,55
+19-01-2026,Delhi NCR,Ghee,Buffalo Ghee,71,500
+26-01-2026,Hyderabad,Ghee,Buffalo Ghee,83,500
+15-02-2026,Mumbai,High Protein Milk,Cacao Milk,73,120
+15-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,113,1000
+16-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,119,100
+16-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,106,50
+25-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,54,1000
+05-02-2026,Hyderabad,Dairy Products,Chocolate Milk,15,90
+27-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,84,500
+16-02-2026,Delhi NCR,Ghee,Cultured Cow Ghee,59,500
+15-02-2026,Hyderabad,High Protein Milk,Chickoo Milk,60,120
+13-01-2026,Pune,Dairy Products,Cow Milk Paneer,76,100
+20-02-2026,Jaipur,High Protein Milk,Matcha,65,125
+22-02-2026,Hyderabad,Ghee,Buffalo Ghee,41,500
+11-01-2026,Jaipur,Dairy Products,Door Bag,104,250
+13-02-2026,Mumbai,Dairy Products,Chocolate Milk,82,90
+19-01-2026,Pune,Dairy Products,Chocolate Milk,96,90
+21-02-2026,Hyderabad,High Protein Milk,Milk,111,75
+02-01-2026,Delhi NCR,Dairy Products,Door Bag,77,250
+08-01-2026,Mumbai,Ghee,Cultured Cow Ghee,51,500
+25-01-2026,Pune,High Protein Milk,Coffee,108,90
+16-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,55,500
+20-02-2026,Mumbai,High Protein Milk,Cacao Milk,96,120
+28-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,117,100
+08-01-2026,Pune,Ghee,A2 Gir Cow Ghee,93,1000
+17-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,28,75
+07-01-2026,Jaipur,Ghee,Buffalo Ghee,9,500
+12-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,72,100
+15-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,106,120
+04-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,84,55
+25-02-2026,Delhi NCR,Dairy Products,Door Bag,79,250
+07-02-2026,Mumbai,High Protein Milk,Cacao Milk,99,120
+26-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,66,75
+03-01-2026,Jaipur,Dairy Products,Door Bag,16,250
+19-01-2026,Mumbai,Dairy Products,Dahi,61,45
+05-01-2026,Pune,High Protein Milk,Mango Milk,86,130
+12-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,8,55
+09-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,62,500
+19-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,104,120
+09-01-2026,Mumbai,Dairy Products,Kharwas,106,75
+17-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,111,55
+10-01-2026,Pune,Ghee,Buffalo Ghee,29,500
+05-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,120,1000
+17-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,42,55
+17-01-2026,Hyderabad,High Protein Milk,Mango Milk,87,130
+04-02-2026,Delhi NCR,Dairy Products,Door Bag,91,250
+20-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,66,120
+07-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,38,55
+18-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,55,100
+27-02-2026,Hyderabad,Ghee,Buffalo Ghee,13,500
+30-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,8,195
+17-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,17,55
+09-01-2026,Delhi NCR,Ghee,Buffalo Ghee,87,500
+04-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,66,75
+21-02-2026,Jaipur,High Protein Milk,Matcha,88,125
+19-01-2026,Delhi NCR,High Protein Milk,Cacao Milk,80,120
+02-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,72,195
+26-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,84,55
+28-02-2026,Jaipur,Ghee,Cultured Cow Ghee,21,500
+23-02-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,44,50
+05-01-2026,Hyderabad,Dairy Products,Cow Milk Paneer,73,100
+24-02-2026,Mumbai,High Protein Milk,Cacao Milk,99,120
+03-01-2026,Pune,Ghee,A2 Gir Cow Ghee,85,1000
+10-02-2026,Hyderabad,Dairy Products,Door Bag,120,250
+02-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,42,50
+05-01-2026,Pune,Dairy Products,Door Bag,6,250
+27-01-2026,Pune,Dairy Products,Chocolate Milk,21,90
+25-01-2026,Jaipur,Ghee,Buffalo Ghee,54,500
+01-01-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,60,195
+12-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,93,75
+08-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,110,1000
+05-02-2026,Delhi NCR,Dairy Products,Kharwas,51,75
+29-01-2026,Delhi NCR,Dairy Products,Dahi,105,45
+03-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,101,500
+13-01-2026,Jaipur,High Protein Milk,Cacao Milk,114,120
+15-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,11,55
+17-01-2026,Jaipur,High Protein Milk,Milk 0.5L,84,120
+25-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,41,75
+12-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,60,195
+06-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,69,100
+12-01-2026,Hyderabad,Dairy Products,Kharwas,70,75
+23-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,76,50
+06-01-2026,Pune,Dairy Products,Kharwas,73,75
+13-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,120,75
+24-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,37,195
+21-02-2026,Pune,High Protein Milk,Mango Milk,57,130
+13-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,45,1000
+11-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,34,55
+06-02-2026,Mumbai,High Protein Milk,Milk 0.5L,81,120
+27-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,102,1000
+30-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,56,500
+26-02-2026,Jaipur,High Protein Milk,Mango Milk,99,130
+08-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,84,55
+23-02-2026,Mumbai,Dairy Products,Dahi,7,45
+05-02-2026,Jaipur,Dairy Products,Kharwas,71,75
+05-02-2026,Delhi NCR,Ghee,Buffalo Ghee,59,500
+30-01-2026,Hyderabad,High Protein Milk,Coffee,28,90
+09-01-2026,Pune,High Protein Milk,Matcha,28,125
+11-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,26,55
+04-01-2026,Jaipur,Dairy Products,Chocolate Milk,56,90
+13-02-2026,Jaipur,Ghee,Buffalo Ghee,58,500
+17-01-2026,Delhi NCR,High Protein Milk,Matcha,5,125
+14-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,106,50
+17-02-2026,Mumbai,Ghee,Buffalo Ghee,91,500
+18-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,56,50
+19-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,15,1000
+19-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,36,500
+11-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,120,55
+21-01-2026,Mumbai,Ghee,Cultured Cow Ghee,24,500
+19-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,83,55
+24-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,23,1000
+19-02-2026,Pune,Ghee,Cultured Cow Ghee,30,500
+24-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,111,50
+06-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,26,500
+21-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,30,50
+25-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,111,75
+07-02-2026,Pune,Ghee,Buffalo Ghee,51,500
+29-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,60,55
+04-01-2026,Jaipur,Dairy Products,Dahi,47,45
+30-01-2026,Hyderabad,Dairy Products,Kharwas,21,75
+31-01-2026,Hyderabad,Dairy Products,Kharwas,10,75
+17-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,56,55
+02-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,58,500
+11-01-2026,Hyderabad,High Protein Milk,Kesar Elaichi,21,100
+19-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,47,500
+24-01-2026,Delhi NCR,Dairy Products,Dahi,107,45
+27-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,32,55
+30-01-2026,Delhi NCR,Dairy Products,Dahi,8,45
+13-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,63,55
+30-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,81,500
+20-02-2026,Delhi NCR,Ghee,Buffalo Ghee,71,500
+11-02-2026,Mumbai,Dairy Products,Dahi,89,45
+17-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,7,50
+07-02-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,8,75
+16-02-2026,Pune,Dairy Products,Cow Milk Paneer,30,100
+27-02-2026,Jaipur,Ghee,Buffalo Ghee,16,500
+04-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,85,120
+15-02-2026,Jaipur,Dairy Products,Dahi,51,45
+04-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,81,55
+09-02-2026,Pune,High Protein Milk,Mango Milk,50,130
+04-02-2026,Mumbai,Ghee,Buffalo Ghee,76,500
+27-01-2026,Delhi NCR,High Protein Milk,Mango Milk,61,130
+29-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,55,1000
+01-01-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,92,55
+25-02-2026,Pune,Dairy Products,Kharwas,120,75
+18-01-2026,Pune,High Protein Milk,Coffee,57,90
+23-02-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,79,75
+16-02-2026,Mumbai,Dairy Products,Chocolate Milk,102,90
+11-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,9,50
+10-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,109,195
+10-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,69,50
+03-02-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,9,100
+22-02-2026,Pune,High Protein Milk,Milk 0.5L,78,120
+21-02-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,28,50
+01-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,77,50
+02-03-2026,Hyderabad,High Protein Milk,Kesar Elaichi,64,100
+12-02-2026,Mumbai,High Protein Milk,Cacao Milk,71,120
+25-02-2026,Delhi NCR,High Protein Milk,Milk 0.5L,44,120
+20-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,84,195
+13-02-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,81,50
+20-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,23,55
+03-02-2026,Pune,High Protein Milk,Chickoo Milk,96,120
+23-01-2026,Jaipur,Dairy Products,Kharwas,100,75
+31-01-2026,Jaipur,High Protein Milk,Matcha,67,125
+09-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,116,1000
+28-01-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,77,75
+07-01-2026,Delhi NCR,High Protein Milk,Coffee,21,90
+02-03-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,24,50
+02-01-2026,Jaipur,Ghee,Cultured Cow Ghee,5,500
+26-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,66,50
+31-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,61,55
+28-01-2026,Pune,High Protein Milk,Milk 0.5L,117,120
+17-02-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,93,75
+23-02-2026,Hyderabad,Dairy Products,Dahi,67,45
+23-02-2026,Jaipur,High Protein Milk,Milk,92,75
+15-01-2026,Hyderabad,Ghee,Buffalo Ghee,104,500
+26-01-2026,Pune,High Protein Milk,Milk 0.5L,48,120
+10-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,5,1000
+11-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,117,195
+09-01-2026,Delhi NCR,Dairy Products,Chocolate Milk,29,90
+07-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,57,55
+07-01-2026,Hyderabad,Dairy Products,Door Bag,60,250
+21-01-2026,Mumbai,Dairy Products,Door Bag,64,250
+22-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,36,500
+14-02-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,113,55
+18-02-2026,Jaipur,High Protein Milk,Cacao Milk,15,120
+31-01-2026,Mumbai,Dairy Products,Door Bag,114,250
+29-01-2026,Jaipur,Ghee,Buffalo Ghee,34,500
+03-01-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,105,50
+03-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,100,50
+11-02-2026,Jaipur,High Protein Milk,Chickoo Milk,40,120
+12-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,82,90
+10-01-2026,Mumbai,High Protein Milk,Coffee,87,90
+11-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,112,1000
+28-02-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,96,50
+16-01-2026,Jaipur,Ghee,Buffalo Ghee,108,500
+17-02-2026,Delhi NCR,Dairy Products,Door Bag,82,250
+05-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,94,55
+25-02-2026,Hyderabad,Ghee,Buffalo Ghee,76,500
+07-01-2026,Pune,Dairy Products,A2 Gir Cow Paneer,61,195
+30-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,7,1000
+09-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,95,55
+31-01-2026,Mumbai,Dairy Products,Dahi,16,45
+19-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,32,50
+20-02-2026,Delhi NCR,High Protein Milk,Coffee,85,90
+12-02-2026,Hyderabad,High Protein Milk,Matcha,101,125
+15-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,40,55
+07-01-2026,Hyderabad,Ghee,Buffalo Ghee,103,500
+03-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,52,1000
+22-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,110,195
+10-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,43,1000
+28-02-2026,Jaipur,High Protein Milk,Coffee,28,90
+31-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,7,1000
+04-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,72,500
+27-02-2026,Jaipur,Dairy Products,Dahi,18,45
+23-01-2026,Delhi NCR,Dairy Products,Kharwas,99,75
+13-01-2026,Mumbai,High Protein Milk,Milk 0.5L,80,120
+14-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,5,50
+16-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,57,1000
+06-02-2026,Jaipur,Ghee,Buffalo Ghee,108,500
+17-01-2026,Delhi NCR,High Protein Milk,Milk,15,75
+31-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,59,55
+12-01-2026,Pune,Dairy Products,Cow Milk Paneer,38,100
+16-02-2026,Jaipur,Dairy Products,Kharwas,85,75
+01-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,21,195
+03-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,88,50
+09-02-2026,Mumbai,Dairy Products,Door Bag,62,250
+19-02-2026,Mumbai,Dairy Products,Dahi,109,45
+19-01-2026,Mumbai,Ghee,Buffalo Ghee,96,500
+25-02-2026,Jaipur,Dairy Products,Chocolate Milk,15,90
+08-02-2026,Jaipur,High Protein Milk,Chickoo Milk,9,120
+20-01-2026,Pune,Ghee,Buffalo Ghee,85,500
+18-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,109,100
+10-01-2026,Pune,Dairy Products,Dahi,98,45
+06-01-2026,Jaipur,Ghee,Buffalo Ghee,98,500
+22-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,72,195
+08-01-2026,Hyderabad,High Protein Milk,Milk 0.5L,33,120
+12-02-2026,Mumbai,High Protein Milk,Kesar Elaichi,47,100
+19-01-2026,Jaipur,Ghee,Buffalo Ghee,107,500
+21-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,120,55
+18-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,76,195
+09-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,83,100
+04-02-2026,Jaipur,Ghee,Cultured Cow Ghee,60,500
+15-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,86,1000
+13-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,35,55
+01-02-2026,Pune,Dairy Products,Kharwas,99,75
+27-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,110,1000
+07-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,6,120
+31-01-2026,Jaipur,Ghee,Cultured Cow Ghee,57,500
+05-02-2026,Hyderabad,Dairy Products,Chocolate Milk,14,90
+24-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,11,195
+04-01-2026,Pune,Ghee,Buffalo Ghee,87,500
+13-02-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,78,55
+18-02-2026,Pune,High Protein Milk,Milk 0.5L,17,120
+04-02-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,108,75
+22-01-2026,Jaipur,Ghee,Cultured Cow Ghee,107,500
+08-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,100,55
+20-01-2026,Pune,High Protein Milk,Milk 250 ML Pouch,8,75
+08-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,68,75
+14-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,33,100
+12-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,13,50
+16-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,7,50
+09-01-2026,Jaipur,Dairy Products,Chocolate Milk,26,90
+17-01-2026,Mumbai,High Protein Milk,Chickoo Milk,81,120
+13-01-2026,Mumbai,High Protein Milk,Chickoo Milk,9,120
+23-01-2026,Delhi NCR,Dairy Products,Chocolate Milk,7,90
+25-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,31,500
+01-02-2026,Pune,Dairy Products,Cow Milk Paneer,74,100
+19-01-2026,Mumbai,Ghee,Buffalo Ghee,31,500
+06-02-2026,Pune,Ghee,Buffalo Ghee,120,500
+16-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,30,75
+12-02-2026,Delhi NCR,Ghee,Buffalo Ghee,40,500
+08-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,47,55
+11-02-2026,Delhi NCR,High Protein Milk,Coffee,16,90
+23-01-2026,Jaipur,Ghee,Buffalo Ghee,8,500
+24-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,30,55
+04-01-2026,Mumbai,High Protein Milk,Chickoo Milk,12,120
+16-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,15,100
+23-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,27,50
+02-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,12,1000
+22-02-2026,Delhi NCR,High Protein Milk,Kesar Elaichi,113,100
+22-01-2026,Jaipur,Ghee,Buffalo Ghee,44,500
+28-01-2026,Delhi NCR,Ghee,Buffalo Ghee,12,500
+19-01-2026,Delhi NCR,Ghee,Buffalo Ghee,17,500
+07-01-2026,Hyderabad,Ghee,Buffalo Ghee,10,500
+09-02-2026,Pune,Dairy Products,Door Bag,44,250
+11-01-2026,Pune,High Protein Milk,Mango Milk,120,130
+10-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,9,50
+12-01-2026,Pune,Dairy Products,Dahi,58,45
+23-01-2026,Mumbai,Dairy Products,Door Bag,50,250
+10-01-2026,Jaipur,Dairy Products,Door Bag,96,250
+16-02-2026,Pune,Ghee,A2 Gir Cow Ghee,18,1000
+07-01-2026,Pune,Dairy Products,Door Bag,29,250
+10-01-2026,Mumbai,Dairy Products,Door Bag,16,250
+11-02-2026,Pune,High Protein Milk,Chickoo Milk,114,120
+02-02-2026,Jaipur,Ghee,Cultured Cow Ghee,36,500
+09-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,103,50
+11-02-2026,Pune,High Protein Milk,Kesar Elaichi,45,100
+03-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,62,1000
+16-02-2026,Mumbai,Ghee,Buffalo Ghee,114,500
+30-01-2026,Mumbai,Dairy Products,Kharwas,51,75
+16-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,115,50
+05-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,99,55
+19-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,26,55
+25-02-2026,Jaipur,High Protein Milk,Chickoo Milk,49,120
+12-02-2026,Jaipur,Ghee,Buffalo Ghee,114,500
+12-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,26,120
+02-03-2026,Jaipur,Dairy Products,Kharwas,6,75
+12-01-2026,Mumbai,Dairy Products,Door Bag,72,250
+05-01-2026,Jaipur,High Protein Milk,Coffee,23,90
+27-02-2026,Delhi NCR,Dairy Products,Dahi,98,45
+27-02-2026,Hyderabad,Ghee,Buffalo Ghee,41,500
+21-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,96,55
+14-02-2026,Hyderabad,High Protein Milk,Mango Milk,21,130
+29-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,24,50
+22-01-2026,Hyderabad,High Protein Milk,Milk 0.5L,36,120
+02-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,103,55
+27-02-2026,Mumbai,Dairy Products,Chocolate Milk,48,90
+04-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,57,1000
+28-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,31,75
+02-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,74,75
+06-01-2026,Hyderabad,Dairy Products,Dahi,27,45
+12-02-2026,Pune,High Protein Milk,Chickoo Milk,43,120
+16-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,52,50
+11-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,66,1000
+06-01-2026,Pune,High Protein Milk,Kesar Elaichi,29,100
+13-02-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,111,55
+01-02-2026,Delhi NCR,High Protein Milk,Coffee,91,90
+20-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,115,55
+12-02-2026,Mumbai,High Protein Milk,Coffee,110,90
+19-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,67,55
+14-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,56,100
+12-02-2026,Mumbai,High Protein Milk,Mango Milk,90,130
+16-02-2026,Mumbai,Dairy Products,Kharwas,114,75
+29-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,105,75
+22-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,117,75
+18-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,119,120
+03-02-2026,Hyderabad,High Protein Milk,Mango Milk,47,130
+10-02-2026,Pune,Dairy Products,Cow Milk Paneer,16,100
+19-02-2026,Pune,Ghee,Buffalo Ghee,105,500
+04-01-2026,Pune,High Protein Milk,Cacao Milk,14,120
+25-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,75,50
+15-02-2026,Jaipur,High Protein Milk,Milk 0.5L,103,120
+26-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,89,75
+01-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,41,50
+07-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,110,100
+16-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,32,50
+24-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,48,55
+20-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,117,50
+11-01-2026,Jaipur,High Protein Milk,Coffee,93,90
+22-02-2026,Jaipur,Ghee,Buffalo Ghee,17,500
+02-03-2026,Mumbai,Ghee,Buffalo Ghee,18,500
+25-01-2026,Mumbai,Ghee,A2 Gir Cow Ghee,117,1000
+20-01-2026,Hyderabad,Dairy Products,Dahi,43,45
+04-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,55,1000
+23-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,11,55
+07-01-2026,Mumbai,High Protein Milk,Coffee,88,90
+19-02-2026,Jaipur,Ghee,Cultured Cow Ghee,100,500
+17-01-2026,Pune,Dairy Products,A2 Gir Cow Paneer,104,195
+11-02-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,79,50
+28-02-2026,Pune,Dairy Products,Dahi,94,45
+24-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,15,50
+04-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,120,195
+15-02-2026,Hyderabad,High Protein Milk,Milk 0.5L,14,120
+13-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,76,500
+08-01-2026,Mumbai,Ghee,Buffalo Ghee,71,500
+11-01-2026,Jaipur,High Protein Milk,Milk,102,75
+08-01-2026,Pune,Dairy Products,Door Bag,107,250
+18-02-2026,Mumbai,Dairy Products,Dahi,53,45
+31-01-2026,Hyderabad,Ghee,Buffalo Ghee,8,500
+31-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,31,55
+24-02-2026,Jaipur,High Protein Milk,Milk 0.5L,9,120
+02-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,118,50
+24-01-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,72,75
+24-02-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,36,50
+31-01-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,51,50
+11-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,29,50
+14-01-2026,Delhi NCR,Dairy Products,Dahi,88,45
+11-02-2026,Delhi NCR,Dairy Products,Dahi,51,45
+02-02-2026,Jaipur,Dairy Products,Kharwas,33,75
+24-02-2026,Pune,Dairy Products,Dahi,31,45
+07-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,9,1000
+01-02-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,5,50
+14-02-2026,Jaipur,Dairy Products,Kharwas,41,75
+14-02-2026,Jaipur,Dairy Products,Chocolate Milk,56,90
+24-02-2026,Pune,Dairy Products,Cow Milk Paneer,22,100
+12-01-2026,Pune,High Protein Milk,Matcha,9,125
+11-02-2026,Jaipur,Dairy Products,Chocolate Milk,5,90
+06-01-2026,Hyderabad,Dairy Products,Door Bag,5,250
+30-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,101,55
+18-02-2026,Hyderabad,High Protein Milk,Coffee,34,90
+08-01-2026,Mumbai,Dairy Products,Dahi,83,45
+11-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,50,50
+04-02-2026,Jaipur,Dairy Products,Door Bag,52,250
+08-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,92,120
+08-02-2026,Pune,High Protein Milk,Matcha,105,125
+20-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,10,90
+01-02-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,18,75
+11-01-2026,Mumbai,High Protein Milk,Kesar Elaichi,78,100
+27-01-2026,Jaipur,Dairy Products,Dahi,36,45
+01-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,67,55
+14-02-2026,Delhi NCR,High Protein Milk,Chickoo Milk,28,120
+24-01-2026,Delhi NCR,High Protein Milk,Mango Milk,69,130
+09-02-2026,Jaipur,Dairy Products,Door Bag,17,250
+07-02-2026,Hyderabad,High Protein Milk,Kesar Elaichi,9,100
+02-03-2026,Delhi NCR,Dairy Products,Kharwas,95,75
+07-02-2026,Jaipur,High Protein Milk,Coffee,48,90
+28-01-2026,Delhi NCR,Ghee,Cultured Cow Ghee,44,500
+26-01-2026,Jaipur,Ghee,Cultured Cow Ghee,5,500
+10-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,109,195
+17-01-2026,Pune,High Protein Milk,Cacao Milk,36,120
+09-01-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,64,55
+15-02-2026,Delhi NCR,Nutrition Rich Milk,Lactose Free Milk,60,75
+13-02-2026,Pune,Nutrition Rich Milk,Raw Cow Milk,83,50
+10-01-2026,Mumbai,Dairy Products,Dahi,97,45
+14-02-2026,Mumbai,Nutrition Rich Milk,Pasteurized Buffalo Milk,60,55
+15-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,8,55
+16-02-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,7,100
+21-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,21,50
+16-02-2026,Jaipur,High Protein Milk,Coffee,8,90
+06-01-2026,Jaipur,High Protein Milk,Coffee,34,90
+09-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,104,55
+28-01-2026,Mumbai,Dairy Products,Kharwas,48,75
+22-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,53,500
+21-02-2026,Mumbai,Ghee,Buffalo Ghee,22,500
+17-02-2026,Delhi NCR,High Protein Milk,Milk 0.5L,33,120
+05-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,15,1000
+16-01-2026,Jaipur,High Protein Milk,Mango Milk,65,130
+16-01-2026,Pune,Ghee,Cultured Cow Ghee,91,500
+06-01-2026,Jaipur,Dairy Products,Chocolate Milk,61,90
+12-02-2026,Mumbai,Dairy Products,Door Bag,119,250
+19-01-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,105,55
+28-01-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,74,1000
+01-02-2026,Pune,Dairy Products,A2 Gir Cow Paneer,48,195
+05-01-2026,Jaipur,High Protein Milk,Chickoo Milk,40,120
+08-01-2026,Delhi NCR,High Protein Milk,Chickoo Milk,113,120
+22-01-2026,Pune,Dairy Products,Dahi,69,45
+08-01-2026,Mumbai,Ghee,Cultured Cow Ghee,116,500
+05-02-2026,Pune,Ghee,A2 Gir Cow Ghee,65,1000
+07-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,91,50
+17-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,111,50
+03-02-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,39,75
+27-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,27,1000
+08-01-2026,Delhi NCR,High Protein Milk,Cacao Milk,98,120
+17-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,47,55
+30-01-2026,Delhi NCR,Ghee,Buffalo Ghee,92,500
+13-01-2026,Pune,Ghee,Buffalo Ghee,66,500
+16-02-2026,Pune,Dairy Products,Chocolate Milk,68,90
+04-01-2026,Jaipur,Dairy Products,Dahi,39,45
+23-01-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,83,195
+04-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,81,50
+21-01-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,64,75
+13-02-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,47,55
+27-01-2026,Jaipur,High Protein Milk,Matcha,67,125
+30-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,11,55
+16-01-2026,Pune,High Protein Milk,Kesar Elaichi,24,100
+22-01-2026,Pune,High Protein Milk,Kesar Elaichi,92,100
+22-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,41,50
+15-02-2026,Jaipur,Nutrition Rich Milk,Pasteurized Buffalo Milk,59,55
+01-01-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,69,55
+03-01-2026,Mumbai,Dairy Products,Dahi,92,45
+28-01-2026,Mumbai,Ghee,Buffalo Ghee,109,500
+22-02-2026,Mumbai,Nutrition Rich Milk,A2 Cow Milk,111,55
+15-01-2026,Hyderabad,Ghee,Buffalo Ghee,21,500
+27-02-2026,Hyderabad,High Protein Milk,Milk,110,75
+13-01-2026,Pune,Ghee,A2 Gir Cow Ghee,79,1000
+18-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,83,55
+26-01-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,64,55
+02-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,39,500
+10-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,5,100
+01-01-2026,Delhi NCR,Nutrition Rich Milk,Raw Cow Milk,25,50
+26-02-2026,Pune,Ghee,Buffalo Ghee,93,500
+14-01-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,86,1000
+20-01-2026,Mumbai,Nutrition Rich Milk,Homogenised A2 Cow Milk,58,55
+19-02-2026,Delhi NCR,High Protein Milk,Milk 0.5L,29,120
+21-02-2026,Hyderabad,Dairy Products,Kharwas,59,75
+13-01-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,111,75
+14-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,31,75
+30-01-2026,Delhi NCR,High Protein Milk,Mango Milk,115,130
+16-02-2026,Pune,Dairy Products,Door Bag,67,250
+07-01-2026,Delhi NCR,Ghee,Buffalo Ghee,59,500
+26-01-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,87,50
+25-01-2026,Hyderabad,High Protein Milk,Coffee,6,90
+23-02-2026,Hyderabad,Dairy Products,Cow Milk Paneer,90,100
+19-01-2026,Hyderabad,High Protein Milk,Kesar Elaichi,120,100
+19-01-2026,Delhi NCR,High Protein Milk,Milk 0.5L,105,120
+12-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,12,55
+09-02-2026,Jaipur,Ghee,Buffalo Ghee,84,500
+13-01-2026,Jaipur,Nutrition Rich Milk,Homogenised Cow Milk,49,50
+05-01-2026,Jaipur,Dairy Products,Kharwas,98,75
+20-02-2026,Jaipur,Dairy Products,Door Bag,40,250
+05-02-2026,Mumbai,High Protein Milk,Milk 0.5L,105,120
+22-01-2026,Mumbai,Dairy Products,Kharwas,56,75
+16-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,74,100
+14-02-2026,Hyderabad,Ghee,Buffalo Ghee,46,500
+10-02-2026,Delhi NCR,Dairy Products,Chocolate Milk,92,90
+01-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,108,75
+06-02-2026,Jaipur,Dairy Products,Cow Milk Paneer,29,100
+08-01-2026,Mumbai,High Protein Milk,Kesar Elaichi,21,100
+22-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,101,75
+03-01-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,77,75
+01-02-2026,Jaipur,High Protein Milk,Kesar Elaichi,93,100
+26-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,106,100
+10-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,82,50
+28-01-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,62,55
+17-02-2026,Hyderabad,Dairy Products,A2 Gir Cow Paneer,82,195
+11-02-2026,Mumbai,High Protein Milk,Milk,40,75
+07-01-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,26,55
+31-01-2026,Mumbai,Dairy Products,Dahi,48,45
+07-02-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,13,55
+02-01-2026,Jaipur,Dairy Products,A2 Gir Cow Paneer,59,195
+22-02-2026,Jaipur,High Protein Milk,Coffee,75,90
+09-02-2026,Delhi NCR,Ghee,Buffalo Ghee,76,500
+14-02-2026,Delhi NCR,Ghee,A2 Gir Cow Ghee,12,1000
+16-01-2026,Hyderabad,Nutrition Rich Milk,Pasteurized Buffalo Milk,27,55
+03-02-2026,Mumbai,High Protein Milk,Matcha,105,125
+02-01-2026,Pune,Ghee,Buffalo Ghee,69,500
+24-02-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,81,75
+02-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,116,55
+02-03-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,57,55
+20-01-2026,Hyderabad,Ghee,Cultured Cow Ghee,116,500
+09-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,89,120
+15-01-2026,Pune,High Protein Milk,Kesar Elaichi,45,100
+02-01-2026,Jaipur,Nutrition Rich Milk,Lactose Free Milk,61,75
+26-01-2026,Jaipur,Ghee,A2 Gir Cow Ghee,9,1000
+30-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,53,50
+10-01-2026,Delhi NCR,High Protein Milk,Coffee,17,90
+24-01-2026,Pune,Dairy Products,Chocolate Milk,104,90
+25-01-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,10,50
+10-01-2026,Hyderabad,Nutrition Rich Milk,Raw Cow Milk,31,50
+21-01-2026,Mumbai,Ghee,Cultured Cow Ghee,68,500
+06-02-2026,Delhi NCR,Ghee,Buffalo Ghee,42,500
+31-01-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,76,55
+06-02-2026,Delhi NCR,Ghee,Buffalo Ghee,104,500
+03-02-2026,Mumbai,Dairy Products,Dahi,104,45
+10-02-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,95,75
+12-01-2026,Mumbai,Dairy Products,Cow Milk Paneer,87,100
+04-01-2026,Hyderabad,Nutrition Rich Milk,Homogenised Cow Milk,50,50
+05-01-2026,Pune,Nutrition Rich Milk,Lactose Free Milk,51,75
+21-01-2026,Jaipur,High Protein Milk,Mango Milk,81,130
+19-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,6,75
+20-01-2026,Hyderabad,High Protein Milk,Cacao Milk,96,120
+13-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,87,100
+11-01-2026,Pune,Ghee,Cultured Cow Ghee,68,500
+21-01-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,112,195
+19-01-2026,Hyderabad,Dairy Products,Kharwas,72,75
+10-02-2026,Hyderabad,Nutrition Rich Milk,A2 Cow Milk,60,55
+27-01-2026,Jaipur,High Protein Milk,Coffee,98,90
+03-02-2026,Mumbai,High Protein Milk,Chickoo Milk,58,120
+15-02-2026,Delhi NCR,Dairy Products,A2 Gir Cow Paneer,40,195
+02-02-2026,Jaipur,Nutrition Rich Milk,Raw Cow Milk,53,50
+14-02-2026,Jaipur,Ghee,Cultured Cow Ghee,29,500
+17-02-2026,Pune,Nutrition Rich Milk,A2 Cow Milk,110,55
+23-01-2026,Delhi NCR,High Protein Milk,Mango Milk,78,130
+19-02-2026,Jaipur,High Protein Milk,Milk 250 ML Pouch,31,75
+04-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,8,1000
+22-01-2026,Hyderabad,High Protein Milk,Milk 250 ML Pouch,64,75
+11-01-2026,Hyderabad,High Protein Milk,Chickoo Milk,55,120
+10-01-2026,Delhi NCR,Nutrition Rich Milk,Homogenised A2 Cow Milk,72,55
+04-01-2026,Jaipur,Ghee,Cultured Cow Ghee,10,500
+10-01-2026,Jaipur,High Protein Milk,Coffee,51,90
+16-01-2026,Jaipur,Ghee,Cultured Cow Ghee,38,500
+08-02-2026,Jaipur,Nutrition Rich Milk,A2 Cow Milk,55,55
+24-01-2026,Hyderabad,High Protein Milk,Kesar Elaichi,31,100
+03-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,9,120
+01-01-2026,Delhi NCR,Ghee,Buffalo Ghee,19,500
+02-03-2026,Hyderabad,High Protein Milk,Matcha,60,125
+08-02-2026,Mumbai,Dairy Products,Door Bag,120,250
+16-02-2026,Jaipur,Ghee,A2 Gir Cow Ghee,96,1000
+08-02-2026,Pune,Dairy Products,Cow Milk Paneer,110,100
+09-02-2026,Jaipur,Dairy Products,Chocolate Milk,83,90
+05-02-2026,Hyderabad,Ghee,A2 Gir Cow Ghee,31,1000
+08-02-2026,Pune,Ghee,Cultured Cow Ghee,16,500
+23-02-2026,Delhi NCR,Nutrition Rich Milk,A2 Cow Milk,63,55
+16-01-2026,Jaipur,High Protein Milk,Chickoo Milk,67,120
+22-02-2026,Pune,Nutrition Rich Milk,Pasteurized Buffalo Milk,40,55
+05-02-2026,Pune,Ghee,Cultured Cow Ghee,36,500
+16-02-2026,Hyderabad,Ghee,Cultured Cow Ghee,28,500
+26-01-2026,Pune,High Protein Milk,Chickoo Milk,10,120
+15-02-2026,Mumbai,Dairy Products,A2 Gir Cow Paneer,66,195
+13-01-2026,Delhi NCR,Nutrition Rich Milk,Pasteurized Buffalo Milk,68,55
+04-01-2026,Mumbai,Ghee,Buffalo Ghee,32,500
+28-01-2026,Jaipur,Nutrition Rich Milk,Homogenised A2 Cow Milk,30,55
+01-02-2026,Jaipur,High Protein Milk,Mango Milk,18,130
+16-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,35,55
+17-01-2026,Jaipur,Dairy Products,Chocolate Milk,97,90
+29-01-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,37,75
+17-02-2026,Delhi NCR,High Protein Milk,Chickoo Milk,92,120
+03-01-2026,Mumbai,Nutrition Rich Milk,Lactose Free Milk,77,75
+05-01-2026,Jaipur,Ghee,Cultured Cow Ghee,24,500
+31-01-2026,Jaipur,High Protein Milk,Chickoo Milk,43,120
+13-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,16,100
+20-02-2026,Hyderabad,Nutrition Rich Milk,Lactose Free Milk,39,75
+22-02-2026,Hyderabad,Nutrition Rich Milk,Homogenised A2 Cow Milk,15,55
+17-02-2026,Pune,Nutrition Rich Milk,Homogenised A2 Cow Milk,70,55
+20-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,48,50
+12-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,31,1000
+14-02-2026,Delhi NCR,High Protein Milk,Milk 250 ML Pouch,55,75
+11-01-2026,Hyderabad,Ghee,Buffalo Ghee,104,500
+01-02-2026,Mumbai,High Protein Milk,Matcha,85,125
+15-02-2026,Mumbai,Dairy Products,Cow Milk Paneer,46,100
+05-01-2026,Mumbai,High Protein Milk,Mango Milk,35,130
+15-01-2026,Mumbai,High Protein Milk,Milk 250 ML Pouch,78,75
+24-02-2026,Jaipur,Ghee,Buffalo Ghee,24,500
+16-02-2026,Mumbai,Nutrition Rich Milk,Raw Cow Milk,76,50
+13-02-2026,Mumbai,Ghee,A2 Gir Cow Ghee,28,1000
+06-01-2026,Mumbai,Dairy Products,Kharwas,93,75
+05-02-2026,Mumbai,High Protein Milk,Matcha,86,125
+14-02-2026,Pune,Nutrition Rich Milk,Homogenised Cow Milk,61,50
+06-01-2026,Mumbai,Nutrition Rich Milk,Homogenised Cow Milk,61,50
+11-02-2026,Delhi NCR,High Protein Milk,Milk,100,75
+14-02-2026,Delhi NCR,Dairy Products,Dahi,13,45
+23-02-2026,Jaipur,High Protein Milk,Milk,96,75
+15-01-2026,Mumbai,High Protein Milk,Coffee,67,90
+22-01-2026,Delhi NCR,Dairy Products,Door Bag,98,250
+03-02-2026,Mumbai,Ghee,Cultured Cow Ghee,53,500
+04-01-2026,Pune,Dairy Products,Kharwas,35,75
+29-01-2026,Hyderabad,High Protein Milk,Cacao Milk,40,120
+16-02-2026,Delhi NCR,High Protein Milk,Cacao Milk,35,120
+04-02-2026,Delhi NCR,Nutrition Rich Milk,Homogenised Cow Milk,65,50
+28-01-2026,Delhi NCR,Dairy Products,Kharwas,91,75
+13-01-2026,Mumbai,High Protein Milk,Mango Milk,72,130
+18-02-2026,Hyderabad,Dairy Products,Door Bag,88,250
+28-01-2026,Jaipur,Dairy Products,Cow Milk Paneer,16,100
+14-01-2026,Pune,Ghee,Buffalo Ghee,106,500
+17-01-2026,Delhi NCR,Dairy Products,Cow Milk Paneer,86,100
+07-01-2026,Mumbai,High Protein Milk,Matcha,70,125
+09-02-2026,Pune,Dairy Products,Kharwas,66,75
